@@ -1,129 +1,9 @@
 [
   {
     "doc": "HIPAA",
-    "section": "§ 160.105 Compliance dates for implementation of new or modified standards and implementation",
-    "chunk_id": "§-0",
-    "text": "specifications. .......................................................................................................................................... 17\nSUBPART B —PREEMPTION OF STATE LAW .................................................................. 17"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.205 Duration of effectiveness of exception determinations. ....................................................................... 19",
-    "chunk_id": "§-0",
-    "text": "SUBPART C—COMPLIANCE AND INVESTIGATIONS ................................................... 19"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.310 Responsibilities of covered entities and business associates. ............................................................... 20",
-    "chunk_id": "§-0",
-    "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n3 §\n160.312   Secretarial action regarding complaints and compliance reviews. .....................................................  21"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.316 Refraining from intimidation or retaliation. ........................................................................................ 23",
-    "chunk_id": "§-0",
-    "text": "SUBPART D—IMPOSITION OF CIVIL MONEY PENALTIES ........................................ 23"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.426 Notification of the public and other agencies. ...................................................................................... 27",
-    "chunk_id": "§-0",
-    "text": "SUBPART E —PROCEDURES FOR HEARINGS ................................................................. 27"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.514 Authority to settle. .................................................................................................................................. 29",
-    "chunk_id": "§-0",
-    "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n4 § 160.516   Discovery. ................................................................................................................................................ 29"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.550 Stay of the Secretary's decision. ............................................................................................................ 35",
-    "chunk_id": "§-0",
-    "text": "PART 162 —ADMINISTRATIVE REQUIREMENTS ..................................... 37\nSUBPART A— GENERAL PROVISIONS .............................................................................. 38"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.103 Definitions. ............................................................................................................................................... 38",
-    "chunk_id": "§-0",
-    "text": "SUBPARTS B-C [RESERVED] ................................................................................................ 39\nSUBPART D—STANDARD UNIQUE HEALTH IDENTIFIER FOR HEALTH CARE\nPROVID\nERS ............................................................................................................................... 39"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.402 [Reserved] ................................................................................................................................................ 39",
     "chunk_id": "§-0",
     "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n5 §\n162.404   Compliance dates of the implementation of the standard unique health identifier for\nhealth care providers. ............................................................................................................................  39"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.414 Implementation specifications: Health care clearinghouses. .............................................................. 40",
-    "chunk_id": "§-0",
-    "text": "SUBPART E —STANDARD UNIQUE HEALTH IDENTIFIER FOR HEALTH PLANS 40"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.504 Compliance requirements for the implementation of the standard unique health plan",
-    "chunk_id": "§-0",
-    "text": "identifier. ................................................................................................................................................. 40"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.514 Other entity identifier. ............................................................................................................................ 42",
-    "chunk_id": "§-0",
-    "text": "SUBPART F —STANDARD UNIQUE EMPLOYER IDENTIFIER .................................... 42"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.610 Implementation specifications for covered entities. ............................................................................. 42",
-    "chunk_id": "§-0",
-    "text": "SUBPARTS G-H [RESERVED] ................................................................................................ 42\nS\nUBPART I —GENERAL PROVISIONS FOR TRANSACTIONS ..................................... 42"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.925 Additional requirements for health plans. ............................................................................................ 47",
-    "chunk_id": "§-0",
-    "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n6 §\n162.930   Additional rules for health care clearinghouses. .................................................................................. 47"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.940 Exceptions from standards to permit testing of proposed modifications. .......................................... 48",
-    "chunk_id": "§-0",
-    "text": "SUBPART J —CODE SETS....................................................................................................... 49"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1011 Valid code sets. ...................................................................................................................................... 50",
-    "chunk_id": "§-0",
-    "text": "SUBPART K —HEALTH CARE CLAIMS OR EQUIVALENT ENCOUNTER\nINFORMATION ......................................................................................................................... 50"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1102 Standards for health care claims or equivalent encounter information transaction. ..................... 50",
-    "chunk_id": "§-0",
-    "text": "SUBPART L —ELIGIBILITY FOR A HEALTH PLAN ....................................................... 52"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1203 Operating rules for eligibility for a health plan transaction. ............................................................ 52",
-    "chunk_id": "§-0",
-    "text": "SUBPART M —REFERRAL CERTIFICATION AND AUTHORIZATION ...................... 53"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1302 Standards for referral certification and authorization transaction. ................................................ 53",
-    "chunk_id": "§-0",
-    "text": "SUBPART N—HEALTH CARE CLAIM STATUS ............................................................... 54"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1403 Operating rules for health care claim status transaction. ................................................................ . 54",
-    "chunk_id": "§-0",
-    "text": "SUBPART O —ENROLLMENT AND DISENROLLMENT IN A HEALTH PLAN ......... 54"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1502 Standards for enrollment and disenrollment in a health plan transaction. ..................................... 54",
-    "chunk_id": "§-0",
-    "text": "SUBPART P —HEALTH CARE ELECTRONIC FUNDS TRANSFERS (EFT) AND\nREMITTANCE ADVICE .......................................................................................................... 55"
   },
   {
     "doc": "HIPAA",
@@ -133,249 +13,15 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.1603 Operating rules for health care electronic funds transfers (EFT) and remittance advice",
-    "chunk_id": "§-0",
-    "text": "transaction. ........................................................................................................................................... 56\nSUBPART Q —HEALTH PLAN PREMIUM PAYMENTS .................................................. 56"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1702 Standards for health plan premium payments transaction. ............................................................. 56",
-    "chunk_id": "§-0",
-    "text": "SUBPART R—COORDINATION OF BENEFITS ................................................................ 57"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1802 Standards for coordination of benefits information transaction. ..................................................... 57",
-    "chunk_id": "§-0",
-    "text": "SUBPART S —MEDICAID PHARMACY SUBROGATI ON ................................ ................ 58"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1902 Standard for Medicaid pharmacy subrogation transaction. ............................................................. 58",
-    "chunk_id": "§-0",
-    "text": "PART 164 —SECURITY AND PRIVACY .......................................................... 59\nSUBPART A— GENERAL PROVISIONS .............................................................................. 59"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.106 Relationship to other parts. .................................................................................................................... 62",
     "chunk_id": "§-0",
     "text": "SUBPART B [RESERVED] ....................................................................................................... 62\nS\nUBPART C—SECURITY STANDARDS FOR THE PROTECTION OF ELECTRONIC\nPROT\nECTED HEALTH INFORMATION ............................................................................. 62"
   },
   {
     "doc": "HIPAA",
-    "section": "§ 164.308 Administrative safeguards. .................................................................................................................... 64",
-    "chunk_id": "§-0",
-    "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n8 §\n164.310   Physical safeguards. ................................................................................................................................  66"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.318 Compliance dates for the initial implementation of the security standards. ..................................... 68",
-    "chunk_id": "§-0",
-    "text": "SUBPART D—NOTIFICATION IN THE CASE OF BREACH OF UNSECURED\nPROT\nECTED HEALTH INFORMATION ............................................................................. 71"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.414 Administrative requirements and burden of proof. ............................................................................. 73",
-    "chunk_id": "§-0",
-    "text": "SUBPART E —PRIVACY OF INDIVIDUALLY IDENTIFIABLE HEALTH\nINFORMATION ......................................................................................................................... 73"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.506 Uses and disclosures to carry out treatment, payment, or health care",
-    "chunk_id": "§-0",
-    "text": "operations. .............................................................................................................................................. 84"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.512 Uses and disclosures for which an authorization or opportunity to agree or object is",
-    "chunk_id": "§-0",
-    "text": "not required. ........................................................................................................................................... 88"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.522 Rights to request privacy protection for protected health information. .......................................... 104",
     "chunk_id": "§-0",
     "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n9 § 16\n4.524   Access of individuals to protected health information. ...................................................................... 105"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.534 Compliance dates for initial implementation of the privacy standards. .......................................... 115",
-    "chunk_id": "§-0",
-    "text": "HIPAA Administrative Simplification Regulation Text\nMarch 2013\n10\nPART 160 —GENERAL\nADMINISTRATIVE\nREQUIREMENTS\nContents\nSubpart A —General Provisions"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.101 Statutory basis and",
-    "chunk_id": "§-0",
-    "text": "purpose."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.105 Compliance dates",
-    "chunk_id": "§-0",
-    "text": "for implementation of new or\nmodified standards and\nimplementation specifications.\nSubpart B —Preemption of State\nLaw"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.203 General rule and",
-    "chunk_id": "§-0",
-    "text": "exceptions."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.204 Process for",
-    "chunk_id": "§-0",
-    "text": "requesting exception\ndeterminations."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.205 Duration of",
-    "chunk_id": "§-0",
-    "text": "effectiveness of exception\ndeterminations.\nSubpart C —Compliance and\nInvestigations"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.304 Principles for",
-    "chunk_id": "§-0",
-    "text": "achieving compliance."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.306 Complaints to the",
-    "chunk_id": "§-0",
-    "text": "Secretary."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.310 Responsibilities of",
-    "chunk_id": "§-0",
-    "text": "covered entities and business\nassociates."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.312 Secretarial action",
-    "chunk_id": "§-0",
-    "text": "regarding complaints and\ncompliance reviews."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.314 Investigational",
-    "chunk_id": "§-0",
-    "text": "subpoenas and inquiries.  § 160.316   Refraining from\nintimidation or retaliation.\nSubpart D —Imposition of Civil\nMoney Penalties"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.402 Basis for a civil",
-    "chunk_id": "§-0",
-    "text": "money penalty."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.404 Amount of a civil",
-    "chunk_id": "§-0",
-    "text": "money penalty."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.406 Violations of an",
-    "chunk_id": "§-0",
-    "text": "identical requirement or\nprohibition."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.408 Factors considered",
-    "chunk_id": "§-0",
-    "text": "in determining the amount of a\ncivil money penalty."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.410 Affirmative",
-    "chunk_id": "§-0",
-    "text": "defenses."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.418 Penalty not",
-    "chunk_id": "§-0",
-    "text": "exclusive."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.420 Notice of proposed",
-    "chunk_id": "§-0",
-    "text": "determination."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.422 Failure to request a",
-    "chunk_id": "§-0",
-    "text": "hearing."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.424 Collection of",
-    "chunk_id": "§-0",
-    "text": "penalty."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.426 Notification of the",
-    "chunk_id": "§-0",
-    "text": "public and other agencies.\nSubpart E —Procedures for\nHearings"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.504 Hearing before an",
-    "chunk_id": "§-0",
-    "text": "ALJ."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.508 Authority of the",
-    "chunk_id": "§-0",
-    "text": "ALJ."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.512 Prehearing",
-    "chunk_id": "§-0",
-    "text": "conference s."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.518 Exchange of witness",
-    "chunk_id": "§-0",
-    "text": "lists, witness statements, and\nexhibits."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.520 Subpoenas for",
-    "chunk_id": "§-0",
-    "text": "attendance at hearing.  § 160.522   Fees."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.524 Form, filing, and",
-    "chunk_id": "§-0",
-    "text": "service of papers."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.526 Computation of",
-    "chunk_id": "§-0",
-    "text": "time."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.548 Appeal of the ALJ's",
-    "chunk_id": "§-0",
-    "text": "decision."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.550 Stay of the",
-    "chunk_id": "§-0",
-    "text": "Secretary's decision."
   },
   {
     "doc": "HIPAA",
@@ -543,13 +189,7 @@
     "doc": "HIPAA",
     "section": "§ 160.314 Investigational",
     "chunk_id": "§-1",
-    "text": "be paid at the time the subpoena\nis served. (5) A subpoena under this\nsection is enforceable through\nthe district court of the United\nStates for the district where the\nsubpoenaed natural person\nresides or is found or where the\nentity transacts business.\n(b) Investigational inquiries are\nnon-public investigational\nproceedings conducted by the\nSecretary.\n(1) Testimony at investigational\ninquiries will be taken under\noath or affirmation.\n(2) Attendance of non-witnesses\nis discretionary with the\nSecretary, except that a witness\nis entitled to be accompanied,\nrepresented, and advised by an\nattorney.\n(3) Representatives of the\nSecretary are entitled to attend\nand ask questions.\n(4) A witness will have the\nopportunity to clarify his or her\nanswers on the record following\nquestioning by the Secretary.\n(5) Any claim of privilege must\nbe asserted by the witness on the\nrecord.\n(6) Objections must be asserted\non the record. Errors of any kind\nthat might be corrected if\npromptly presented will be\ndeemed to be waived unless\nreasonable objection is made at\nthe investigational inquiry.\nExcept where the objection is on\nthe grounds of privilege, the\nquestion will be answered on the\nrecord, subject to objection.\n(7) If a witness refuses to\nanswer any question not\nprivileged or to produce\nrequested documents or items,\nor engages in conduct likely to delay or obstruct the\ninvestigational inquiry, the\nSecretary may seek enforcement\nof the subpoena under paragraph\n(a)(5) of this section.\n(8) The proceedings will be\nrecorded and transcribed. The\nwitness is entitled to a copy of\nthe transcript, upon payment of\nprescribed costs, except that, for\ngood cause, the witness may be\nlimited to inspection of the\nofficial transcript of his or her\ntestimony.\n(9)(i) The transcript will be\nsubmitted to the witness for\nsignature.\n(A) Where the witness will be\nprovided a copy of the\ntranscript, the transcript will be\nsubmitted to the witness for\nsignature. The witness may\nsubmit to the Secretary written\nproposed corrections to the\ntranscript, with such corrections\nattached to the transcript. If the\nwitness does not return a signed\ncopy of the transcript or\nproposed corrections within 30"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.314 Investigational",
-    "chunk_id": "§-2",
-    "text": "days (computed in the same\nmanner as prescribed under"
+    "text": "be paid at the time the subpoena\nis served. (5) A subpoena under this\nsection is enforceable through\nthe district court of the United\nStates for the district where the\nsubpoenaed natural person\nresides or is found or where the\nentity transacts business.\n(b) Investigational inquiries are\nnon-public investigational\nproceedings conducted by the\nSecretary.\n(1) Testimony at investigational\ninquiries will be taken under\noath or affirmation.\n(2) Attendance of non-witnesses\nis discretionary with the\nSecretary, except that a witness\nis entitled to be accompanied,\nrepresented, and advised by an\nattorney.\n(3) Representatives of the\nSecretary are entitled to attend\nand ask questions.\n(4) A witness will have the\nopportunity to clarify his or her\nanswers on the record following\nquestioning by the Secretary.\n(5) Any claim of privilege must\nbe asserted by the witness on the\nrecord.\n(6) Objections must be asserted\non the record. Errors of any kind\nthat might be corrected if\npromptly presented will be\ndeemed to be waived unless\nreasonable objection is made at\nthe investigational inquiry.\nExcept where the objection is on\nthe grounds of privilege, the\nquestion will be answered on the\nrecord, subject to objection.\n(7) If a witness refuses to\nanswer any question not\nprivileged or to produce\nrequested documents or items,\nor engages in conduct likely to delay or obstruct the\ninvestigational inquiry, the\nSecretary may seek enforcement\nof the subpoena under paragraph\n(a)(5) of this section.\n(8) The proceedings will be\nrecorded and transcribed. The\nwitness is entitled to a copy of\nthe transcript, upon payment of\nprescribed costs, except that, for\ngood cause, the witness may be\nlimited to inspection of the\nofficial transcript of his or her\ntestimony.\n(9)(i) The transcript will be\nsubmitted to the witness for\nsignature.\n(A) Where the witness will be\nprovided a copy of the\ntranscript, the transcript will be\nsubmitted to the witness for\nsignature. The witness may\nsubmit to the Secretary written\nproposed corrections to the\ntranscript, with such corrections\nattached to the transcript. If the\nwitness does not return a signed\ncopy of the transcript or\nproposed corrections within 30\ndays (computed in the same\nmanner as prescribed under"
   },
   {
     "doc": "HIPAA",
@@ -574,12 +214,6 @@
     "section": "§ 160.306;",
     "chunk_id": "§-0",
     "text": "(b) Testifying, assisting, or\nparticipating in an investigation,\ncompliance review, proceeding,\nor hearing under this part; or\n(c) Opposing any act or practice\nmade unlawful by this\nsubchapter, provided the\nindividual or person has a good\nfaith belief that the practice\nopposed is unlawful, and the\nmanner of opposition is\nreasonable and does not involve\na disclosure of protected health\ninformation in violation of\nsubpart E of part 164 of this\nsubchapter. [71 FR 8426, Feb. 16, 2006, as\namended at 78 FR 5691, Jan. 25,\n2013]\nSubpart D —Imposition of\nCivil Money Penalties\nSOURCE : 71 FR 8426, Feb. 16,\n2006, unless otherwise noted."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.400 Applicability.",
-    "chunk_id": "§-0",
-    "text": "This subpart applies to the\nimposition of a civil money\npenalty by the Secretary under\n42 U.S.C. 1320d- 5."
   },
   {
     "doc": "HIPAA",
@@ -615,31 +249,13 @@
     "doc": "HIPAA",
     "section": "§ 160.406 Violations of an",
     "chunk_id": "§-0",
-    "text": "identical requirement or\nprohibition.\nThe Secretary will determine the\nnumber of violations of an\nadministrative simplification\nprovision based on the nature of\nthe covered entity's or business\nassociate's obligation to act or\nnot act under the provision that\nis violated, such as its obligation\nto act in a certain manner, or\nwithin a certain time, or to act or\nnot act with respect to certain\npersons. In the case of\ncontinuing violation of a\nprovision, a separate violation\noccurs each day the covered\nentity or business associate is in\nviolation of the provision.\n[78 FR 5691, Jan. 25, 2013]\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n25 § 160.408   Factors considered\nin determining the amount of\na civil money penalty.\nIn\ndetermining the amount of\nany civil money penalty, the\nSecretary will consider the\nfollowing factors, which may be\nmitigating or aggravating as\nappropriate:\n(a) The nature and extent of the\nviolation, consideration of\nwhich may include but is not\nlimited to:\n(1) The number of individuals\naffected; and\n(2) The time period during\nwhich the violation occurred;\n(b) The nature and extent of the\nharm resulting from the\nviolation, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the violation caused\nphysical harm;\n(2) Whether the violation\nresulted in financial harm;\n(3) Whether the violation\nresulted in harm to an\nindividual's reputation; and\n(4) Whether the violation\nhindered an individual's ability\nto obtain health care;\n(c) The history of prior\ncompliance with the\nadministrative simplification\nprovisions, including violations,\nby the covered entity or business\nassociate, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the current\nviolation is the same or similar to previous indications of\nnoncompliance;\n(2) Whether and to what extent\nthe covered entity or business\nassociate has attempted to\ncorrect previous indications of\nnoncompliance;\n(3) How the covered entity or\nbusiness associate has responded\nto technical assistance from the\nSecretary provided in the\ncontext of a compliance effort;\nand\n(4) How the covered entity or\nbusiness associate has responded\nto prior complaints;\n(d) The financial condition of"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.406 Violations of an",
-    "chunk_id": "§-1",
-    "text": "the covered entity or business\nassociate, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the covered entity\nor business associate had\nfinancial difficulties that\naffected its ability to comply;\n(2) Whether the imposition of a\ncivil money penalty would\njeopardize the ability of the\ncovered entity or business\nassociate to continue to provide,\nor to pay for, health care; and\n(3) The size of the covered\nentity or business associate; and\n(e) Such other matters as justice\nmay require.\n[78 FR 5691, Jan. 25, 2013]"
+    "text": "identical requirement or\nprohibition.\nThe Secretary will determine the\nnumber of violations of an\nadministrative simplification\nprovision based on the nature of\nthe covered entity's or business\nassociate's obligation to act or\nnot act under the provision that\nis violated, such as its obligation\nto act in a certain manner, or\nwithin a certain time, or to act or\nnot act with respect to certain\npersons. In the case of\ncontinuing violation of a\nprovision, a separate violation\noccurs each day the covered\nentity or business associate is in\nviolation of the provision.\n[78 FR 5691, Jan. 25, 2013]\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n25 § 160.408   Factors considered\nin determining the amount of\na civil money penalty.\nIn\ndetermining the amount of\nany civil money penalty, the\nSecretary will consider the\nfollowing factors, which may be\nmitigating or aggravating as\nappropriate:\n(a) The nature and extent of the\nviolation, consideration of\nwhich may include but is not\nlimited to:\n(1) The number of individuals\naffected; and\n(2) The time period during\nwhich the violation occurred;\n(b) The nature and extent of the\nharm resulting from the\nviolation, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the violation caused\nphysical harm;\n(2) Whether the violation\nresulted in financial harm;\n(3) Whether the violation\nresulted in harm to an\nindividual's reputation; and\n(4) Whether the violation\nhindered an individual's ability\nto obtain health care;\n(c) The history of prior\ncompliance with the\nadministrative simplification\nprovisions, including violations,\nby the covered entity or business\nassociate, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the current\nviolation is the same or similar to previous indications of\nnoncompliance;\n(2) Whether and to what extent\nthe covered entity or business\nassociate has attempted to\ncorrect previous indications of\nnoncompliance;\n(3) How the covered entity or\nbusiness associate has responded\nto technical assistance from the\nSecretary provided in the\ncontext of a compliance effort;\nand\n(4) How the covered entity or\nbusiness associate has responded\nto prior complaints;\n(d) The financial condition of\nthe covered entity or business\nassociate, consideration of\nwhich may include but is not\nlimited to:\n(1) Whether the covered entity\nor business associate had\nfinancial difficulties that\naffected its ability to comply;\n(2) Whether the imposition of a\ncivil money penalty would\njeopardize the ability of the\ncovered entity or business\nassociate to continue to provide,\nor to pay for, health care; and\n(3) The size of the covered\nentity or business associate; and\n(e) Such other matters as justice\nmay require.\n[78 FR 5691, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
     "section": "§ 160.410 Affirmative",
     "chunk_id": "§-0",
-    "text": "defenses.\n(a) The Secretary may not:\n(1) Prior to February 18, 2011,\nimpose a civil money penalty on a covered entity or business\nassociate for an act that violates\nan administrative simplification\nprovision if the covered entity or\nbusiness associate establishes\nthat the violation is punishable\nunder 42 U.S.C. 1320d- 6.\n(2) On or after February 18,\n2011, impose a civil money\npenalty on a covered entity or\nbusiness associate for an act that\nviolates an administrative\nsimplification provision if the\ncovered entity or business\nassociate establishes that a\npenalty has been imposed under\n42 U.S.C. 1320d-6 with respect\nto such act.\n(b) For violations occurring\nprior to February 18, 2009, the\nSecretary may not impose a civil\nmoney penalty on a covered\nentity for a violation if the\ncovered entity establishes that\nan affirmative defense exists\nwith respect to the violation,\nincluding the following:\n(1) The covered entity\nestablishes, to the satisfaction of\nthe Secretary, that it did not\nhave knowledge of the violation,\ndetermined in accordance with\nthe Federal common law of\nagency, and by exercising\nreasonable diligence, would not\nhave known that the violation\noccurred; or\n(2) The violation is —\n(i) Due to circumstances that\nwould make it unreasonable for\nthe covered entity, despite the\nexercise of ordinary business\ncare and prudence, to comply\nwith the administrative\nsimplification provision violated\nand is not due to willful neglect;\nand\n(ii) Corrected during either:\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n26 (A\n) The 30-day period\nbeginning on the first date the\ncovered entity liable for the\npenalty knew, or by exercising\nreasonable diligence would have\nknown, that the violation\noccurred; or\n(B) Such additional period as the\nSecretary determines to be\nappropriate based on the natur e\nand extent of the failure to\ncomply.\n(c) For violations occurring on\nor after February 18, 2009, the\nSecretary may not impose a civil\nmoney penalty on a covered\nentity or business associate for a\nviolation if the covered entity or\nbusiness associate establishes to\nthe satisfaction of the Secretary\nthat the violation is —"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.410 Affirmative",
-    "chunk_id": "§-1",
-    "text": "(1) Not due to willful neglect;\nand\n(2) Corrected during either:\n(i) The 30-day period beginning\non the first date the covered\nentity or business associate\nliable for the penalty knew, or,\nby exercising reasonable\ndiligence, would have known\nthat the violation occurred; or\n(ii) Such additional period as the\nSecretary determines to be\nappropriate based on the nature\nand extent of the failure to\ncomply.\n[78 FR 5692, Jan. 25, 2013]"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.412 Waiver.",
-    "chunk_id": "§-0",
-    "text": "For violations described in"
+    "text": "defenses.\n(a) The Secretary may not:\n(1) Prior to February 18, 2011,\nimpose a civil money penalty on a covered entity or business\nassociate for an act that violates\nan administrative simplification\nprovision if the covered entity or\nbusiness associate establishes\nthat the violation is punishable\nunder 42 U.S.C. 1320d- 6.\n(2) On or after February 18,\n2011, impose a civil money\npenalty on a covered entity or\nbusiness associate for an act that\nviolates an administrative\nsimplification provision if the\ncovered entity or business\nassociate establishes that a\npenalty has been imposed under\n42 U.S.C. 1320d-6 with respect\nto such act.\n(b) For violations occurring\nprior to February 18, 2009, the\nSecretary may not impose a civil\nmoney penalty on a covered\nentity for a violation if the\ncovered entity establishes that\nan affirmative defense exists\nwith respect to the violation,\nincluding the following:\n(1) The covered entity\nestablishes, to the satisfaction of\nthe Secretary, that it did not\nhave knowledge of the violation,\ndetermined in accordance with\nthe Federal common law of\nagency, and by exercising\nreasonable diligence, would not\nhave known that the violation\noccurred; or\n(2) The violation is —\n(i) Due to circumstances that\nwould make it unreasonable for\nthe covered entity, despite the\nexercise of ordinary business\ncare and prudence, to comply\nwith the administrative\nsimplification provision violated\nand is not due to willful neglect;\nand\n(ii) Corrected during either:\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n26 (A\n) The 30-day period\nbeginning on the first date the\ncovered entity liable for the\npenalty knew, or by exercising\nreasonable diligence would have\nknown, that the violation\noccurred; or\n(B) Such additional period as the\nSecretary determines to be\nappropriate based on the natur e\nand extent of the failure to\ncomply.\n(c) For violations occurring on\nor after February 18, 2009, the\nSecretary may not impose a civil\nmoney penalty on a covered\nentity or business associate for a\nviolation if the covered entity or\nbusiness associate establishes to\nthe satisfaction of the Secretary\nthat the violation is —\n(1) Not due to willful neglect;\nand\n(2) Corrected during either:\n(i) The 30-day period beginning\non the first date the covered\nentity or business associate\nliable for the penalty knew, or,\nby exercising reasonable\ndiligence, would have known\nthat the violation occurred; or\n(ii) Such additional period as the\nSecretary determines to be\nappropriate based on the nature\nand extent of the failure to\ncomply.\n[78 FR 5692, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
@@ -673,21 +289,9 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 160.504 of this part.",
-    "chunk_id": "§-0",
-    "text": "[71 FR 8426, Feb. 16, 2006, as\namended at 74 FR 56131, Oct.\n30, 2009]"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 160.422 Failure to request a",
     "chunk_id": "§-0",
     "text": "hearing.\nIf the respondent does not\nrequest a hearing within the time\nprescribed by § 160.504 of this\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n27 part a\nnd the matter is not settled\npursuant to § 160.416, the\nSecretary will impose the\nproposed penalty or any lesser\npenalty permitted by 42 U.S.C.\n1320d-5. The Secretary will\nnotify the respondent by\ncertified mail, return receipt\nrequested, of any penalty that\nhas been imposed and of the\nmeans by which the respondent\nmay satisfy the penalty, and the\npenalty is final on receipt of the\nnotice. The respondent has no\nright to appeal a penalty under"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.548 of this part with",
-    "chunk_id": "§-0",
-    "text": "respect to which the respondent\nhas not timely requested a\nhearing."
   },
   {
     "doc": "HIPAA",
@@ -705,13 +309,7 @@
     "doc": "HIPAA",
     "section": "§ 160.502 Definitions.",
     "chunk_id": "§-0",
-    "text": "As used in this subpart, the\nfollowing term has the following\nmeaning:\nBoard  means the members of\nthe HHS Departmental Appeals\nBoard, in the Office of the\nSecretary, who issue decisions\nin panels of three. § 160.504   Hearing before an\nALJ.\n(a) A respondent may request a\nhearing before an ALJ. The\nparties to the hearing proceeding\nconsist of —\n(1) The respondent; and\n(2) The officer(s) or\nemployee(s) of HHS to whom\nthe enforcement authority\ninvolved has been delegated.\n(b) The request for a hearing\nmust be made in writing signed\nby the respondent or by the\nrespondent's attorney and sent\nby certified mail, return receipt\nrequested, to the address\nspecified in the notice of\nproposed determination. The\nrequest for a hearing must be\nmailed within 90 days after\nnotice of the proposed\ndetermination is received by the\nrespondent. For purposes of this\nsection, the respondent's date of\nreceipt of the notice of proposed\ndetermination is presumed to be\n5 days after the date of the\nnotice unless the respondent\nmakes a reasonable showing to\nthe contrary to the ALJ.\n(c) The request for a hearing\nmust clearly and directly admit,\ndeny, or explain each of the\nfindings of fact contained in the\nnotice of proposed\ndetermination with regard to\nwhich the respondent has any\nknowledge. If the respondent\nhas no knowledge of a particular\nfinding of fact and so states, the\nfinding shall be deemed denied.\nThe request for a hearing must\nalso state the circumstances or\narguments that the respondent\nalleges constitute the grounds\nfor any defense and the factual\nand legal basis for opposing the\npenalty, except that a respondent\nmay raise an affirmative defense\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n28 under\n§ 160.410(b)(1) at any\ntime.\n(d) The ALJ must dismiss a\nhearing request where —\n(1) On motion of the Secretary,\nthe ALJ determines that the\nrespondent's hearing request is\nnot timely filed as required by\nparagraphs (b) or does not meet\nthe requirements of paragraph\n(c) of this section;\n(2) The respondent withdraws\nthe request for a hearing;"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.502 Definitions.",
-    "chunk_id": "§-1",
-    "text": "(3) The respondent abandons the\nrequest for a hearing; or\n(4) The respondent's hearing\nrequest fails to raise any issue\nthat may properly be addressed\nin a hearing."
+    "text": "As used in this subpart, the\nfollowing term has the following\nmeaning:\nBoard  means the members of\nthe HHS Departmental Appeals\nBoard, in the Office of the\nSecretary, who issue decisions\nin panels of three. § 160.504   Hearing before an\nALJ.\n(a) A respondent may request a\nhearing before an ALJ. The\nparties to the hearing proceeding\nconsist of —\n(1) The respondent; and\n(2) The officer(s) or\nemployee(s) of HHS to whom\nthe enforcement authority\ninvolved has been delegated.\n(b) The request for a hearing\nmust be made in writing signed\nby the respondent or by the\nrespondent's attorney and sent\nby certified mail, return receipt\nrequested, to the address\nspecified in the notice of\nproposed determination. The\nrequest for a hearing must be\nmailed within 90 days after\nnotice of the proposed\ndetermination is received by the\nrespondent. For purposes of this\nsection, the respondent's date of\nreceipt of the notice of proposed\ndetermination is presumed to be\n5 days after the date of the\nnotice unless the respondent\nmakes a reasonable showing to\nthe contrary to the ALJ.\n(c) The request for a hearing\nmust clearly and directly admit,\ndeny, or explain each of the\nfindings of fact contained in the\nnotice of proposed\ndetermination with regard to\nwhich the respondent has any\nknowledge. If the respondent\nhas no knowledge of a particular\nfinding of fact and so states, the\nfinding shall be deemed denied.\nThe request for a hearing must\nalso state the circumstances or\narguments that the respondent\nalleges constitute the grounds\nfor any defense and the factual\nand legal basis for opposing the\npenalty, except that a respondent\nmay raise an affirmative defense\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n28 under\n§ 160.410(b)(1) at any\ntime.\n(d) The ALJ must dismiss a\nhearing request where —\n(1) On motion of the Secretary,\nthe ALJ determines that the\nrespondent's hearing request is\nnot timely filed as required by\nparagraphs (b) or does not meet\nthe requirements of paragraph\n(c) of this section;\n(2) The respondent withdraws\nthe request for a hearing;\n(3) The respondent abandons the\nrequest for a hearing; or\n(4) The respondent's hearing\nrequest fails to raise any issue\nthat may properly be addressed\nin a hearing."
   },
   {
     "doc": "HIPAA",
@@ -724,12 +322,6 @@
     "section": "§ 160.508 Authority of the",
     "chunk_id": "§-0",
     "text": "ALJ.\n(a) The ALJ must conduct a fair\nand impartial hearing, avoid\ndelay, maintain order, and\nensure that a record of the\nproceeding is made.\n(b) The ALJ may —\n(1) Set and change the date, time\nand place of the hearing upon\nreasonable notice to the parties;\n(2) Continue or recess the\nhearing in whole or in part for a\nreasonable period of time;\n(3) Hold conferences to identify\nor simplify the issues, or to\nconsider other matters that may\naid in the expeditious\ndisposition of the proceeding;\n(4) Administer oaths and\naffirmations; (5) Issue subpoenas requiring\nthe attendance of witnesses at\nhearings and the production of\ndocuments at or in relation to\nhearings;\n(6) Rule on motions and other\nprocedural matters;\n(7) Regulate the scope and\ntiming of documentary\ndiscovery as permitted by this\nsubpart;\n(8) Regulate the course of the\nhearing and the conduct of\nrepresentatives, parties, and\nwitnesses;\n(9) Examine witnesses;\n(10) Receive, rule on, exclude,\nor limit evidence;\n(11) Upon motion of a party,\ntake official notice of facts;\n(12) Conduct any conference,\nargument or hearing in person\nor, upon agreement of the\nparties, by telephone; and\n(13) Upon motion of a party,\ndecide cases, in whole or in part,\nby summary judgment where\nthere is no disputed issue of\nmaterial fact. A summary\njudgment decision constitutes a\nhearing on the record for the\npurposes of this subpart.\n(c) The ALJ —\n(1) May not find invalid or\nrefuse to follow Federal statutes,\nregulations, or Secretarial\ndelegations of authority and\nmust give deference to\npublished guidance to the extent\nnot inconsistent with statute or\nregulation;\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n29 (2) May not enter an order in the\nnature of a directed verdict;\n(3) May not compel settlement\nnegotiations;\n(4) May not enjoin any act of the\nSecretary; or\n(5) May not review the exercise of\ndiscretion by the Secretary with\nrespect to whether to grant an\nextension under"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.410(b)(2)(ii)(B) or (c)(2)(ii)",
-    "chunk_id": "§-0",
-    "text": "of this part or to provide technical\nassistance under 42 U.S.C. 1320d-\n5(b)(2)(B)."
   },
   {
     "doc": "HIPAA",
@@ -747,25 +339,13 @@
     "doc": "HIPAA",
     "section": "§ 160.516 Discovery.",
     "chunk_id": "§-0",
-    "text": "(a) A party may make a request to\nanother party for production of\ndocuments for inspection and\ncopying that are relevant and\nmaterial to the issues before the\nALJ.\n(b) For the purpose of this section,\nthe term “documents” includes\ninformation, reports, answers,\nrecords, accounts, papers and other\ndata and documentary evidence.\nNothing contained in this section\nmay be interpreted to require the\ncreation of a document, except that\nrequested data stored in an\nelectronic data storage system must\nbe produced in a form accessible to\nthe requesting party.\n(c) Requests for documents,\nrequests for admissions, writte n\ninterrogatories, depositions and any\nforms of discovery, other than\nthose permitted under paragraph (a)\nof this section, are not authorized.\n(d) This section may not be\nconstrued to require the disclosure\nof interview reports or statements\nobtained by any party, or on behalf\nof any party, of persons who will\nnot be called as witnesses by that\nparty, or analyses and summaries\nprepared in conjunction with the\ninvestigation or litigation of the\ncase, or any otherwise privileged\ndocuments.\n(e)(1) When a request for\nproduction of documents has\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n30 been received, within 30 days\nthe party receiving that request\nmust either fully respond to the\nrequest, or state that the request\nis being objected to and the\nreasons for that objection. If\nobjection is made to part of an\nitem or category, the part must\nbe specified. Upon receiving an y\nobjections, the party seeking\nproduction may then, within 30\ndays or any other time frame set\nby the ALJ, file a motion for an\norder compelling discovery. The\nparty receiving a request for\nproduction may also file a\nmotion for protective order any\ntime before the date the\nproduction is due.\n(2) The ALJ may grant a motion\nfor protective order or deny a\nmotion for an order compelling\ndiscovery if the ALJ finds that\nthe discovery sought —\n(i) Is irrelevant;\n(ii) Is unduly costly or\nburdensome;\n(iii) Will unduly delay the\nproceeding; or\n(iv) Seeks privileged\ninformation."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.516 Discovery.",
-    "chunk_id": "§-1",
-    "text": "(3) The ALJ may extend any of\nthe time frames set forth in\nparagraph (e)(1) of this section.\n(4) The burden of showing that\ndiscovery should be allowed is\non the party seeking discovery."
+    "text": "(a) A party may make a request to\nanother party for production of\ndocuments for inspection and\ncopying that are relevant and\nmaterial to the issues before the\nALJ.\n(b) For the purpose of this section,\nthe term “documents” includes\ninformation, reports, answers,\nrecords, accounts, papers and other\ndata and documentary evidence.\nNothing contained in this section\nmay be interpreted to require the\ncreation of a document, except that\nrequested data stored in an\nelectronic data storage system must\nbe produced in a form accessible to\nthe requesting party.\n(c) Requests for documents,\nrequests for admissions, writte n\ninterrogatories, depositions and any\nforms of discovery, other than\nthose permitted under paragraph (a)\nof this section, are not authorized.\n(d) This section may not be\nconstrued to require the disclosure\nof interview reports or statements\nobtained by any party, or on behalf\nof any party, of persons who will\nnot be called as witnesses by that\nparty, or analyses and summaries\nprepared in conjunction with the\ninvestigation or litigation of the\ncase, or any otherwise privileged\ndocuments.\n(e)(1) When a request for\nproduction of documents has\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n30 been received, within 30 days\nthe party receiving that request\nmust either fully respond to the\nrequest, or state that the request\nis being objected to and the\nreasons for that objection. If\nobjection is made to part of an\nitem or category, the part must\nbe specified. Upon receiving an y\nobjections, the party seeking\nproduction may then, within 30\ndays or any other time frame set\nby the ALJ, file a motion for an\norder compelling discovery. The\nparty receiving a request for\nproduction may also file a\nmotion for protective order any\ntime before the date the\nproduction is due.\n(2) The ALJ may grant a motion\nfor protective order or deny a\nmotion for an order compelling\ndiscovery if the ALJ finds that\nthe discovery sought —\n(i) Is irrelevant;\n(ii) Is unduly costly or\nburdensome;\n(iii) Will unduly delay the\nproceeding; or\n(iv) Seeks privileged\ninformation.\n(3) The ALJ may extend any of\nthe time frames set forth in\nparagraph (e)(1) of this section.\n(4) The burden of showing that\ndiscovery should be allowed is\non the party seeking discovery."
   },
   {
     "doc": "HIPAA",
     "section": "§ 160.518 Exchange of",
     "chunk_id": "§-0",
-    "text": "witness lists, witness\nstatements, and exhibits.\n(a) The parties must exchange\nwitness lists, copies of prior\nwritten statements of proposed\nwitnesses, and copies of\nproposed hearing exhibits, incl\nuding copies of any written\nstatements that the party intends\nto offer in lieu of live testimony\nin accordance with § 160.538,\nnot more than 60, and not less\nthan 15, days before the\nscheduled hearing, except that if\na respondent intends to\nintroduce the evidence of a\nstatistical expert, the respondent\nmust provide the Secretarial\nparty with a copy of the\nstatistical expert's report not less\nthan 30 days before the\nscheduled hearing.\n(b)(1) If, at any time, a party\nobjects to the proposed\nadmission of evidence not\nexchanged in accordance with\nparagraph (a) of this section, the\nALJ must determine whether the\nfailure to comply with paragraph\n(a) of this section should result\nin the exclusion of that\nevidence.\n(2) Unless the ALJ finds that\nextraordinary circumstances\njustified the failure timely t o\nexchange the information listed\nunder paragraph (a) of this\nsection, the ALJ must exclude\nfrom the party's case- in-chief —\n(i) The testimony of any witness\nwhose name does not appear on\nthe witness list; and\n(ii) Any exhibit not provided to\nthe opposing party as specified\nin paragraph (a) of this section.\n(3) If the ALJ finds that\nextraordinary circumstances\nexisted, the ALJ must then\ndetermine whether the\nadmission of that evidence\nwould cause substantial\nprejudice to the objecting party.\n(i) If the ALJ finds that there is\nno substantial prejudice, the\nevidence may be admitted. (ii) If the ALJ finds that there is\nsubstantial prejudice, the ALJ\nmay exclude the evidence, or, if\nhe or she does not exclude the\nevidence, must postpone the\nhearing for such time as is\nnecessary for the objecting party\nto prepare and respond to the\nevidence, unless the objecting\nparty waives postponement.\n(c) Unless the other party\nobjects within a reasonable\nperiod of time before the\nhearing, documents exchanged\nin accordance with paragraph (a)\nof this section will be deemed to\nbe authentic for the purpose of"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.518 Exchange of",
-    "chunk_id": "§-1",
-    "text": "admissibility at the hearing."
+    "text": "witness lists, witness\nstatements, and exhibits.\n(a) The parties must exchange\nwitness lists, copies of prior\nwritten statements of proposed\nwitnesses, and copies of\nproposed hearing exhibits, incl\nuding copies of any written\nstatements that the party intends\nto offer in lieu of live testimony\nin accordance with § 160.538,\nnot more than 60, and not less\nthan 15, days before the\nscheduled hearing, except that if\na respondent intends to\nintroduce the evidence of a\nstatistical expert, the respondent\nmust provide the Secretarial\nparty with a copy of the\nstatistical expert's report not less\nthan 30 days before the\nscheduled hearing.\n(b)(1) If, at any time, a party\nobjects to the proposed\nadmission of evidence not\nexchanged in accordance with\nparagraph (a) of this section, the\nALJ must determine whether the\nfailure to comply with paragraph\n(a) of this section should result\nin the exclusion of that\nevidence.\n(2) Unless the ALJ finds that\nextraordinary circumstances\njustified the failure timely t o\nexchange the information listed\nunder paragraph (a) of this\nsection, the ALJ must exclude\nfrom the party's case- in-chief —\n(i) The testimony of any witness\nwhose name does not appear on\nthe witness list; and\n(ii) Any exhibit not provided to\nthe opposing party as specified\nin paragraph (a) of this section.\n(3) If the ALJ finds that\nextraordinary circumstances\nexisted, the ALJ must then\ndetermine whether the\nadmission of that evidence\nwould cause substantial\nprejudice to the objecting party.\n(i) If the ALJ finds that there is\nno substantial prejudice, the\nevidence may be admitted. (ii) If the ALJ finds that there is\nsubstantial prejudice, the ALJ\nmay exclude the evidence, or, if\nhe or she does not exclude the\nevidence, must postpone the\nhearing for such time as is\nnecessary for the objecting party\nto prepare and respond to the\nevidence, unless the objecting\nparty waives postponement.\n(c) Unless the other party\nobjects within a reasonable\nperiod of time before the\nhearing, documents exchanged\nin accordance with paragraph (a)\nof this section will be deemed to\nbe authentic for the purpose of\nadmissibility at the hearing."
   },
   {
     "doc": "HIPAA",
@@ -907,213 +487,9 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.103 Definitions.",
-    "chunk_id": "§-0",
-    "text": "Subparts B-C [Reserved]\nSubpart D —Standard Unique\nHealth Identifier for Health Care\nProviders"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.404 Compliance dates of",
-    "chunk_id": "§-0",
-    "text": "the implementation of the\nstandard unique health identifier\nfor health care providers."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.406 Standard unique",
-    "chunk_id": "§-0",
-    "text": "health identifier for health care\nproviders."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.408 National Provider",
-    "chunk_id": "§-0",
-    "text": "System."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.410 Implementation",
-    "chunk_id": "§-0",
-    "text": "specifications: Health care\nproviders."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.412 Implementation",
-    "chunk_id": "§-0",
-    "text": "specifications: Health plans."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.414 Implementation",
-    "chunk_id": "§-0",
-    "text": "specifications: Health care\nclearinghouses.\nSubpart E —Standard Unique\nHealth Identifier for Health\nPlans"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.504 Compliance",
-    "chunk_id": "§-0",
-    "text": "requirements for the\nimplementation of the standard\nunique health plan identifier."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.506 Standard unique",
-    "chunk_id": "§-0",
-    "text": "health plan identifier."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.508 Enumeration",
-    "chunk_id": "§-0",
-    "text": "System."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.510 Full implementation",
-    "chunk_id": "§-0",
-    "text": "requirements: Covered entities.  § 162.512   Implementation\nspecifications: Health plans."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.514 Other entity",
-    "chunk_id": "§-0",
-    "text": "identifier.\nSubpart F —Standard Unique\nEmployer Identifier"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.600 Compliance dates of",
-    "chunk_id": "§-0",
-    "text": "the implementation of the\nstandard unique employer\nidentifier."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.605 Standard unique",
-    "chunk_id": "§-0",
-    "text": "employer identifier."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.610 Implementation",
-    "chunk_id": "§-0",
-    "text": "specifications for covered\nentities.\nSubparts G-H [Reserved]\nSubpart I —General Provisions\nfor Transactions"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.910 Maintenance of",
-    "chunk_id": "§-0",
-    "text": "standards and adoption of\nmodifications and new\nstandards."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.915 Trading partner",
-    "chunk_id": "§-0",
-    "text": "agreements."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.920 Availability of",
-    "chunk_id": "§-0",
-    "text": "implementation specifications\nand operating rules."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.923 Requirements for",
-    "chunk_id": "§-0",
-    "text": "covered entities."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.925 Additional",
-    "chunk_id": "§-0",
-    "text": "requirements for health plans."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.930 Additional rules for",
-    "chunk_id": "§-0",
-    "text": "health care clearinghouses."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.940 Exceptions from",
-    "chunk_id": "§-0",
-    "text": "standards to permit testing of\nproposed modifications.\nSubpart J —Code Sets"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1000 General",
-    "chunk_id": "§-0",
-    "text": "requirements."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1002 Medical data code",
-    "chunk_id": "§-0",
-    "text": "sets."
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.1011 Valid code sets.",
     "chunk_id": "§-0",
     "text": "Subpart K —Health Care Claims\nor Equivalent Encounter\nInformation  § 162.1101   Health care claim s\nor equivalent encounter\ninformation transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1102 Standards for",
-    "chunk_id": "§-0",
-    "text": "health care claims or equivalent\nencounter information\ntransaction.\nSubpart L —Eligibility for a\nHealth Plan"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1201 Eligibility for a",
-    "chunk_id": "§-0",
-    "text": "health plan transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1202 Standards for",
-    "chunk_id": "§-0",
-    "text": "eligibility for a health plan\ntransaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1203 Operating rules for",
-    "chunk_id": "§-0",
-    "text": "eligibility for a health plan\ntransaction.\nSubpart M —Referral\nCertification and Authorization"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1301 Referral",
-    "chunk_id": "§-0",
-    "text": "certification and authorization\ntransaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1302 Standards for",
-    "chunk_id": "§-0",
-    "text": "referral certification and\nauthorization transaction.\nSubpart N —Health Care Claim\nStatus"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1401 Health care claim",
-    "chunk_id": "§-0",
-    "text": "status transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1402 Standards for",
-    "chunk_id": "§-0",
-    "text": "health care claim status\ntransaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1403 Operating rules for",
-    "chunk_id": "§-0",
-    "text": "health care claim status\ntransaction.\nSubpart O —Enrollment and\nDisenrollment in a Health Plan"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1501 Enrollment and",
-    "chunk_id": "§-0",
-    "text": "disenrollment in a health plan\ntransaction."
   },
   {
     "doc": "HIPAA",
@@ -1123,69 +499,9 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.1601 Health care",
-    "chunk_id": "§-0",
-    "text": "electronic funds transfers (EFT)\nand remittance advice\ntransaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1602 Standards for",
-    "chunk_id": "§-0",
-    "text": "health care electronic funds\ntransfers (EFT) and remittance\nadvice transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1603 Operating rules for",
-    "chunk_id": "§-0",
-    "text": "health care electronic funds\ntransfers (EFT) and remittance\nadvice transaction.\nSubpart Q —Health Plan\nPremiu\nm Payments"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1701 Health plan",
-    "chunk_id": "§-0",
-    "text": "premium payments transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1702 Standards for",
-    "chunk_id": "§-0",
-    "text": "health plan premium payments\ntransaction.\nSubpart R —Coordination of\nBenefits"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1801 Coordination of",
-    "chunk_id": "§-0",
-    "text": "benefits transaction."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1802 Standards for",
-    "chunk_id": "§-0",
-    "text": "coordination of benefits\ninformation transaction.\nSubpart S —Medicaid Pharmacy\nSubrog\nation"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1901 Medicaid",
-    "chunk_id": "§-0",
-    "text": "pharmacy subrogation\ntransaction."
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.1902 Standard for",
     "chunk_id": "§-0",
     "text": "Medicaid pharmacy subrogation\ntransaction.\nAUTHORITY : Secs. 1171 through\n1180 of the Social Security Act\n(42 U.S.C. 1320d-1320d-9), as\nadded by sec. 262 of Pub. L.\n104-191, 110 Stat. 2021-2031,\nsec. 105 of Pub. L. 110-233, 122\nStat. 881-922, and sec. 264 of\nPub. L. 104-191, 110 Stat. 2033- 2034 (42 U.S.C. 1320d- 2(note),\nand secs. 1104 and 10109 of\nPub. L. 111-148, 124 Stat. 146-\n154 and 915-917.\nSOURCE : 65 FR 50367, Aug. 17,\n2000, unless otherwise noted.\nSubpart A —General\nProvisions"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.100 Applicability.",
-    "chunk_id": "§-0",
-    "text": "Covered entities (as defined in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 160.103 of this subchapter)",
-    "chunk_id": "§-0",
-    "text": "must comply with the applicable\nrequirements of this part."
   },
   {
     "doc": "HIPAA",
@@ -1207,33 +523,15 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.410 no later than May 23,",
-    "chunk_id": "§-0",
-    "text": "2007.\n(b) Health plans.  A health plan\nmust comply with the\nimplementation specifications in"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.412 no later than one of",
     "chunk_id": "§-0",
     "text": "the following dates:\n(1) A health plan that is not a\nsmall health plan —May 23,\n2007.\n(2) A small health plan —May\n23, 2008.\n(c) Health care clearinghouses.\nA health care clearinghouse must comply with the\nimplementation specifications in"
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.414 no later than May 23,",
-    "chunk_id": "§-0",
-    "text": "2007.\n[69 FR 3468, Jan. 23, 2004, as\namended at 77 FR 54719, Sept.\n5, 2012]"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.406 Standard unique",
     "chunk_id": "§-0",
     "text": "health identifier for health\ncare providers.\n(a) Standard.  The standard\nunique health identifier for\nhealth care providers is the\nNational Provider Identifier\n(NPI). The NPI is a 10-positio n\nnumeric identifier, with a check\ndigit in the 10th position, and no\nintelligence about the health\ncare provider in the number.\n(b) Required and permitted uses\nfor the NPI.  (1) The NPI must\nbe used as stated in § 162.410,"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.412, and § 162.414.",
-    "chunk_id": "§-0",
-    "text": "(2) The NPI may be used for any\nother lawful purpose."
   },
   {
     "doc": "HIPAA",
@@ -1267,12 +565,6 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 162.510 no later than",
-    "chunk_id": "§-0",
-    "text": "November 7, 2016.\n(b) Health plans.  A health plan\nmust comply with the\nimplementation specifications in"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 162.512 no later than one of",
     "chunk_id": "§-0",
     "text": "the following dates:\n(1) A health plan that is not a\nsmall health plan — November\n5\n, 2014.\n(2) A health plan that is a small\nhealth plan — November 5,\n2015.\n[\n77 FR 54719, Sept. 5, 2012, as\namended at 77 FR 60630, Oct.\n4, 2012]"
@@ -1282,12 +574,6 @@
     "section": "§ 162.506 Standard unique",
     "chunk_id": "§-0",
     "text": "health plan identifier.\n(a) Standard.  The standard\nunique health plan identifier is\nthe Health Plan Identifier\n(HPID) that is assigned by the\nEnumeration System identified\nin § 162.508.\n(b) Required and permitted uses\nfor the HPID.  (1) The HPID\nmust be used as specified in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.510 and § 162.512.",
-    "chunk_id": "§-0",
-    "text": "(2) The HPID may be used for\nany other lawful purpose."
   },
   {
     "doc": "HIPAA",
@@ -1389,13 +675,7 @@
     "doc": "HIPAA",
     "section": "§ 162.1802.",
     "chunk_id": "§-0",
-    "text": "(13) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Claim\nPayment/Advice (835), April\n2006, ASC X12N/005010X221,\nas referenced in § 162.1602.\n(14) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nBenefit Enrollment and\nMaintenance (834), August\n2006, ASC X12N/005010X220,\nas referenced in § 162.1502.\n(15) The ASC X12 Standards\nfor Electronic Data Interchang e\nTechnical Report Type 3 —\nPayroll Deducted and Other\nGroup Premium Payment for\nInsurance Products (820),\nFebruary 2007, ASC\nX12N/005010X218, as\nreferenced in § 162.1702.\n(16) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Services Review —\nRequest for Review and\nResponse (278), May 2006,\nASC X12N/005010X217, and\nErrata to Health Care Services\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n45 Review —Request for Review\nand Response (278), ASC X12\nStandards for Electronic Data\nInterchange Technical Report\nType 3, April 2008, ASC\nX12N/005010X217E1, as\nreferenced in § 162.1302.\n(17) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Claim Status\nRequest and Response\n(276/277), August 2006, ASC\nX12N/005010X212, and Errata\nto Health Care Claim Status\nRequest and Response\n(276/277), ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3, April\n2008, ASC\nX12N/005010X212E1, as\nreferenced in § 162.1402.\n(18) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Eligibility Benefit\nInquiry and Response (270/271),\nApril 2008, ASC\nX12N/005010X279, as\nreferenced in § 162.1202.\n(b) Retail pharmacy\nspecifications and Medicaid\nsubrogation implementation\nguides.  The implementation\nspecifications for the retail\npharmacy standards and the\nimplementation specifications\nfor the batch standard for the\nMedicaid pharmacy subrogation\ntransaction may be obtained\nfrom the National Council for\nPrescription Drug Programs,\n9240 East Raintree Drive,\nScottsdale, AZ 85260.\nTelephone (480) 477-1000;\nFAX (480) 767-1042. They are\nalso available through the\nInternet at\nhttp://www.ncpdp.org . A fee is\ncharged for all NCPDP\nImplementation Guides.\nCharging for such publications is consistent with the policies of\nother publishers of standards.\nThe transaction implementation\nspecifications are as follows:\n(1) The Telecommunication\nStandard Implementation Guide"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.1802.",
-    "chunk_id": "§-1",
-    "text": "Version 5, Release 1 (Version\n5.1), September 1999, National\nCouncil for Prescription Drug\nPrograms, as referenced in"
+    "text": "(13) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Claim\nPayment/Advice (835), April\n2006, ASC X12N/005010X221,\nas referenced in § 162.1602.\n(14) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nBenefit Enrollment and\nMaintenance (834), August\n2006, ASC X12N/005010X220,\nas referenced in § 162.1502.\n(15) The ASC X12 Standards\nfor Electronic Data Interchang e\nTechnical Report Type 3 —\nPayroll Deducted and Other\nGroup Premium Payment for\nInsurance Products (820),\nFebruary 2007, ASC\nX12N/005010X218, as\nreferenced in § 162.1702.\n(16) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Services Review —\nRequest for Review and\nResponse (278), May 2006,\nASC X12N/005010X217, and\nErrata to Health Care Services\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n45 Review —Request for Review\nand Response (278), ASC X12\nStandards for Electronic Data\nInterchange Technical Report\nType 3, April 2008, ASC\nX12N/005010X217E1, as\nreferenced in § 162.1302.\n(17) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Claim Status\nRequest and Response\n(276/277), August 2006, ASC\nX12N/005010X212, and Errata\nto Health Care Claim Status\nRequest and Response\n(276/277), ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3, April\n2008, ASC\nX12N/005010X212E1, as\nreferenced in § 162.1402.\n(18) The ASC X12 Standards\nfor Electronic Data Interchange\nTechnical Report Type 3 —\nHealth Care Eligibility Benefit\nInquiry and Response (270/271),\nApril 2008, ASC\nX12N/005010X279, as\nreferenced in § 162.1202.\n(b) Retail pharmacy\nspecifications and Medicaid\nsubrogation implementation\nguides.  The implementation\nspecifications for the retail\npharmacy standards and the\nimplementation specifications\nfor the batch standard for the\nMedicaid pharmacy subrogation\ntransaction may be obtained\nfrom the National Council for\nPrescription Drug Programs,\n9240 East Raintree Drive,\nScottsdale, AZ 85260.\nTelephone (480) 477-1000;\nFAX (480) 767-1042. They are\nalso available through the\nInternet at\nhttp://www.ncpdp.org . A fee is\ncharged for all NCPDP\nImplementation Guides.\nCharging for such publications is consistent with the policies of\nother publishers of standards.\nThe transaction implementation\nspecifications are as follows:\n(1) The Telecommunication\nStandard Implementation Guide\nVersion 5, Release 1 (Version\n5.1), September 1999, National\nCouncil for Prescription Drug\nPrograms, as referenced in"
   },
   {
     "doc": "HIPAA",
@@ -1473,13 +753,7 @@
     "doc": "HIPAA",
     "section": "§ 162.930 Additional rules for",
     "chunk_id": "§-1",
-    "text": "burdens on users.\n(x) Incorporate flexibility to\nadapt more easily to changes in\nthe health care infrastructure\n(such as new services,\norganizations, and provider\ntypes) and information\ntechnology.\n(2) Specifications for the\nproposed modification.  Provide\nspecifications for the proposed\nmodification, including any\nadditional system requirements.\n(3) Testing of the proposed\nmodification.  Provide an\nexplanation, no more than 5\npages in length, of how the\norganization intends to test the\nstandard, including the number\nand types of health plans and\nhealth care providers expected\nto be involved in the test,\ngeographical areas, and\nbeginning and ending dates of\nthe test.\n(4) Trading partner\nconcurrences.  Provide written\nconcurrences from trading\npartners who would agree to\nparticipate in the test. (b) Basis for granting an\nexception.  The Secretary may\ngrant an initial exception, for a\nperiod not to exceed 3 years,\nbased on, but not limited to, the\nfollowing criteria:\n(1) An assessment of whether\nthe proposed modification\ndemonstrates a significant\nimprovement to the current\nstandard.\n(2) The extent and length of\ntime of the exception.\n(3) Consultations with DSMOs.\n(c) Secretary's decision on\nexception.  The Secretary makes\na decision and notifies the\norganization requesting the\nexception whether the request is\ngranted or denied.\n(1) Exception granted.  If the\nSecretary grants an exception,\nthe notification includes the\nfollowing information:\n(i) The length of time for which\nthe exception applies.\n(ii) The trading partners and\ngeographical areas the Secretary\napproves for testing.\n(iii) Any other conditions for\napproving the exception.\n(2) Exception denied.  If the\nSecretary does not grant an\nexception, the notification\nexplains the reasons the\nSecretary considers the proposed\nmodification would not be a\nsignificant improvement to the\ncurrent standard and any other\nrationale for the denial.\n(d) Organization's report on test\nresults.  Within 90 days after the\ntest is completed, an\norganization that receives an\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n49 exception must submit a report\non the results of the test,\nincluding a cost-benefit analysis,\nto a location specified by the\nSecretary by notice in the\nFEDERAL REGISTER .\n(e) Extension allowed.  If the\nreport submitted in accordance"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.930 Additional rules for",
-    "chunk_id": "§-2",
-    "text": "with paragraph (d) of this\nsection recommends a\nmodification to the standard, the\nSecretary, on request, may grant\nan extension to the period\ngranted for the exception.\nSubpart J—Code Sets"
+    "text": "burdens on users.\n(x) Incorporate flexibility to\nadapt more easily to changes in\nthe health care infrastructure\n(such as new services,\norganizations, and provider\ntypes) and information\ntechnology.\n(2) Specifications for the\nproposed modification.  Provide\nspecifications for the proposed\nmodification, including any\nadditional system requirements.\n(3) Testing of the proposed\nmodification.  Provide an\nexplanation, no more than 5\npages in length, of how the\norganization intends to test the\nstandard, including the number\nand types of health plans and\nhealth care providers expected\nto be involved in the test,\ngeographical areas, and\nbeginning and ending dates of\nthe test.\n(4) Trading partner\nconcurrences.  Provide written\nconcurrences from trading\npartners who would agree to\nparticipate in the test. (b) Basis for granting an\nexception.  The Secretary may\ngrant an initial exception, for a\nperiod not to exceed 3 years,\nbased on, but not limited to, the\nfollowing criteria:\n(1) An assessment of whether\nthe proposed modification\ndemonstrates a significant\nimprovement to the current\nstandard.\n(2) The extent and length of\ntime of the exception.\n(3) Consultations with DSMOs.\n(c) Secretary's decision on\nexception.  The Secretary makes\na decision and notifies the\norganization requesting the\nexception whether the request is\ngranted or denied.\n(1) Exception granted.  If the\nSecretary grants an exception,\nthe notification includes the\nfollowing information:\n(i) The length of time for which\nthe exception applies.\n(ii) The trading partners and\ngeographical areas the Secretary\napproves for testing.\n(iii) Any other conditions for\napproving the exception.\n(2) Exception denied.  If the\nSecretary does not grant an\nexception, the notification\nexplains the reasons the\nSecretary considers the proposed\nmodification would not be a\nsignificant improvement to the\ncurrent standard and any other\nrationale for the denial.\n(d) Organization's report on test\nresults.  Within 90 days after the\ntest is completed, an\norganization that receives an\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n49 exception must submit a report\non the results of the test,\nincluding a cost-benefit analysis,\nto a location specified by the\nSecretary by notice in the\nFEDERAL REGISTER .\n(e) Extension allowed.  If the\nreport submitted in accordance\nwith paragraph (d) of this\nsection recommends a\nmodification to the standard, the\nSecretary, on request, may grant\nan extension to the period\ngranted for the exception.\nSubpart J—Code Sets"
   },
   {
     "doc": "HIPAA",
@@ -1617,12 +891,6 @@
     "doc": "HIPAA",
     "section": "§ 162.920).",
     "chunk_id": "§-0",
-    "text": "(2) Phase I CORE 153:\nEligibility and Benefits\nConnectivity Rule, version\n1.1.0, March 2011.\n(Incorporated by reference in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.920).",
-    "chunk_id": "§-0",
     "text": "(3) Phase I CORE 154:\nEligibility and Benefits 270/271\nData Content Rule, version\n1.1.0, March 2011.\n(Incorporated by reference in"
   },
   {
@@ -1654,12 +922,6 @@
     "section": "§ 162.920).",
     "chunk_id": "§-0",
     "text": "(9) Phase II CORE 260:\nEligibility & Benefits Data\nContent (270/271) Rule, version\n2.1.0, March 2011.\n(Incorporated by reference in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.920).",
-    "chunk_id": "§-0",
-    "text": "(10) Phase II CORE 270:\nConnectivity Rule, version\n2.2.0, March 2011.\n(Incorporated by reference in"
   },
   {
     "doc": "HIPAA",
@@ -1737,12 +999,6 @@
     "doc": "HIPAA",
     "section": "§ 162.920).",
     "chunk_id": "§-0",
-    "text": "(2) Phase II CORE 270:\nConnectivity Rule, version\n2.2.0, March 2011.\n(Incorporated by reference in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.920).",
-    "chunk_id": "§-0",
     "text": "(b) Excluding where the CAQH\nCORE rules reference and\npertain to acknowledgements\nand CORE certification.\n[76 FR 40496, July 8, 2011]\nSubpart O —Enrollment and\nDise\nnrollment in a Health\nPlan"
   },
   {
@@ -1786,12 +1042,6 @@
     "section": "§ 162.920).",
     "chunk_id": "§-0",
     "text": "(2) For transmissions described\nin § 162.1601(b), including\nwhen transmissions as described\nin § 162.1601(a) and (b) are\ncontained within the same\ntransmission, the ASC X12\nStandards for Electronic Data\nInterchange Technical Report\nType 3, “Health Care Claim\nPayment/Advice (835), April\n2006, ASC X12N/005010X221.\n(Incorporated by reference in"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 162.920).",
-    "chunk_id": "§-0",
-    "text": "[77 FR 1590, Jan. 10, 2012]"
   },
   {
     "doc": "HIPAA",
@@ -1897,159 +1147,9 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 164.105 Organizational",
-    "chunk_id": "§-0",
-    "text": "requirements."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.106 Relationship to other",
-    "chunk_id": "§-0",
-    "text": "parts.\nSubpart B [Reserved]\nSubpart C —Security Standards\nfor the Protection of Electronic\nProtected Health Information"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.306 Security standards:",
-    "chunk_id": "§-0",
-    "text": "General rules."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.308 Administrative",
-    "chunk_id": "§-0",
-    "text": "safeguards."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.312 Technical",
-    "chunk_id": "§-0",
-    "text": "safeguards."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.314 Organizational",
-    "chunk_id": "§-0",
-    "text": "requirements."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.316 Policies and",
-    "chunk_id": "§-0",
-    "text": "procedures and documentation\nrequirements."
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.318 Compliance dates",
     "chunk_id": "§-0",
     "text": "for the initial implementation of\nthe security standards.\nAppendix A to Subpart C of Part\n164—Security Standards:\nMatrix\nSubpart D —Notification in the\nCase of Breach of Unsecured\nProtected Health Information"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.404 Notification to",
-    "chunk_id": "§-0",
-    "text": "individuals."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.408 Notification to the",
-    "chunk_id": "§-0",
-    "text": "Secretary."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.410 Notification by a",
-    "chunk_id": "§-0",
-    "text": "business associate."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.412 Law enforcement",
-    "chunk_id": "§-0",
-    "text": "delay."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.414 Administrative",
-    "chunk_id": "§-0",
-    "text": "requirements and burden of\nproof.\nSubpart E —Privacy of\nIndividually Identifiable Health\nInformation"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.502 Uses and disclosures",
-    "chunk_id": "§-0",
-    "text": "of protected health information:\ngeneral rules."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.504 Uses and",
-    "chunk_id": "§-0",
-    "text": "disclosures: Organizational\nrequirement s."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.506 Uses and disclosures",
-    "chunk_id": "§-0",
-    "text": "to carry out treatment, payment,\nor health care operations."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.508 Uses and disclosures",
-    "chunk_id": "§-0",
-    "text": "for which an authorization is\nrequired."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.510 Uses and disclosures",
-    "chunk_id": "§-0",
-    "text": "requiring an opportunity for the\nindividual to agree or to object."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.512 Uses and disclosures",
-    "chunk_id": "§-0",
-    "text": "for which an authorization or\nopportunity to agree or object is\nnot required."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.514 Other requirements",
-    "chunk_id": "§-0",
-    "text": "relating to uses and disclosures\nof protected health information."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.520 Notice of privacy",
-    "chunk_id": "§-0",
-    "text": "practices for protected health\ninformation."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.522 Rights to request",
-    "chunk_id": "§-0",
-    "text": "privacy protection for protected\nhealth information."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.524 Access of",
-    "chunk_id": "§-0",
-    "text": "individuals to protected health\ninformation."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.526 Amendment of",
-    "chunk_id": "§-0",
-    "text": "protected health information."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.528 Accounting of",
-    "chunk_id": "§-0",
-    "text": "disclosures of protected health\ninformation."
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.530 Administrative",
-    "chunk_id": "§-0",
-    "text": "requirements.  § 164.532   Transition\nprovisions."
   },
   {
     "doc": "HIPAA",
@@ -2103,13 +1203,7 @@
     "doc": "HIPAA",
     "section": "§ 164.314, and § 164.504, to a",
     "chunk_id": "§-0",
-    "text": "hybrid entity:\n(A) A reference in such\nprovision to a “covered entity”\nrefers to a health care\ncomponent of the covered\nentity;\n(B) A reference in such\nprovision to a “health plan,”\n“covered health care provider,”\nor “health care clearinghouse,”\nrefers to a health care\ncomponent of the covered entity\nif such health care component\nperforms the functions of a\nhealth plan, health care provider,\nor health care clearinghouse, as\napplicable;\n(C) A reference in such\nprovision to “protected health\ninformation” refers to protected\nhealth information that is\ncreated or received by or on\nbehalf of the health care\ncomponent of the covered\nentity; and\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n61 (D) A reference in such\nprovision to “electronic\nprotected health information”\nrefers to electronic protected\nhealth information that is\ncreated, received, maintained, or\ntransmitted by or on behalf of\nthe health care component of the\ncovered entity.\n(ii) Safeguard requirements.  The\ncovered entity that is a hybrid\nentity must ensure that a health\ncare component of the entit y\ncomplies with the applicable\nrequirements of this part. In\nparticular, and without limiting\nthis requirement, such covered\nentity must ensure that:\n(A) Its health care component\ndoes not disclose protected\nhealth information to another\ncomponent of the covered entity\nin circumstances in which\nsubpart E of this part would\nprohibit such disclosure if the\nhealth care component and the\nother component were separate\nand distinct legal entities;\n(B) Its health care component\nprotects electronic protected\nhealth information with respect\nto another component of the\ncovered entity to the same extent\nthat it would be required under\nsubpart C of this part to protect\nsuch information if the health\ncare component and the other\ncomponent were separate and\ndistinct legal entities;\n(C) If a person performs duties\nfor both the health care\ncomponent in the capacity of a\nmember of the workforce of\nsuch component and for another\ncomponent of the entity in the\nsame capacity with respect to\nthat component, such workforce\nmember must not use or disclose\nprotected health information\ncreated or received in the course"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.314, and § 164.504, to a",
-    "chunk_id": "§-1",
-    "text": "of or incident to the member's w\nork for the health care\ncomponent in a way prohibited\nby subpart E of this part.\n(iii) Responsibilities of the\ncovered entity.  A covered entity\nthat is a hybrid entity has the\nfollowing responsibilities:\n(A) For purposes of subpart C of\npart 160 of this subchapter,\npertaining to compliance and\nenforcement, the covered entity\nhas the responsibility of\ncomplying with this part.\n(B) The covered entity is\nresponsible for complying with"
+    "text": "hybrid entity:\n(A) A reference in such\nprovision to a “covered entity”\nrefers to a health care\ncomponent of the covered\nentity;\n(B) A reference in such\nprovision to a “health plan,”\n“covered health care provider,”\nor “health care clearinghouse,”\nrefers to a health care\ncomponent of the covered entity\nif such health care component\nperforms the functions of a\nhealth plan, health care provider,\nor health care clearinghouse, as\napplicable;\n(C) A reference in such\nprovision to “protected health\ninformation” refers to protected\nhealth information that is\ncreated or received by or on\nbehalf of the health care\ncomponent of the covered\nentity; and\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n61 (D) A reference in such\nprovision to “electronic\nprotected health information”\nrefers to electronic protected\nhealth information that is\ncreated, received, maintained, or\ntransmitted by or on behalf of\nthe health care component of the\ncovered entity.\n(ii) Safeguard requirements.  The\ncovered entity that is a hybrid\nentity must ensure that a health\ncare component of the entit y\ncomplies with the applicable\nrequirements of this part. In\nparticular, and without limiting\nthis requirement, such covered\nentity must ensure that:\n(A) Its health care component\ndoes not disclose protected\nhealth information to another\ncomponent of the covered entity\nin circumstances in which\nsubpart E of this part would\nprohibit such disclosure if the\nhealth care component and the\nother component were separate\nand distinct legal entities;\n(B) Its health care component\nprotects electronic protected\nhealth information with respect\nto another component of the\ncovered entity to the same extent\nthat it would be required under\nsubpart C of this part to protect\nsuch information if the health\ncare component and the other\ncomponent were separate and\ndistinct legal entities;\n(C) If a person performs duties\nfor both the health care\ncomponent in the capacity of a\nmember of the workforce of\nsuch component and for another\ncomponent of the entity in the\nsame capacity with respect to\nthat component, such workforce\nmember must not use or disclose\nprotected health information\ncreated or received in the course\nof or incident to the member's w\nork for the health care\ncomponent in a way prohibited\nby subpart E of this part.\n(iii) Responsibilities of the\ncovered entity.  A covered entity\nthat is a hybrid entity has the\nfollowing responsibilities:\n(A) For purposes of subpart C of\npart 160 of this subchapter,\npertaining to compliance and\nenforcement, the covered entity\nhas the responsibility of\ncomplying with this part.\n(B) The covered entity is\nresponsible for complying with"
   },
   {
     "doc": "HIPAA",
@@ -2145,13 +1239,7 @@
     "doc": "HIPAA",
     "section": "§ 164.3 04 Definitions.",
     "chunk_id": "§-0",
-    "text": "As used in this subpart, the\nfollowing terms have the\nfollowing meanings: Access  means the ability or the\nmeans necessary to read, write,\nmodify, or communicate\ndata/information or otherwise\nuse any system resource. (This\ndefinition appli es to “access” as\nused in this subpart, not as used\nin subparts D or E of this part.)\nAdministrative safeguards  are\nadministrative actions, and\npolicies and procedures, to\nmanage the selection,\ndevelopment, implementation,\nand maintenance of security\nmeasures to protect electronic\nprotected health information and\nto manage the conduct of the\ncovered entity's or business\nassociate's workforce in relation\nto the protection of that\ninformation.\nAuthentication  means the\ncorroboration that a person is the\none claimed.\nAvailability  means the property\nthat data or information is\naccessible and useable upon\ndemand by an authorized\nperson.\nConfidentiality  means the\nproperty that data or information\nis not made available or\ndisclosed to unauthorized\npersons or processes.\nEncryption  means the use of an\nalgorithmic process to transform\ndata into a form in which there\nis a low probability of assigning\nmeaning without use of a\nconfidential process or key.\nFacility  means the physical\npremises and the interior and\nexterior of a building(s).\nInformation system  means an\ninterconnected set of\ninformation resources under the\nsame direct management control that shares common\nfunctionality. A system\nnormally includes hardware,\nsoftware, information, data,\napplications, communications,\nand people.\nIntegrity  means the property that\ndata or information have not\nbeen altered or destroyed in an\nunauthorized manner.\nMalicious software  means\nsoftware, for example, a virus,\ndesigned to damage or disrupt a\nsystem.\nPassword  means confidential\nauthentication information\ncomposed of a string of\ncharacters.\nPhysical safeguards  are physical\nmeasures, policies, and\nprocedures to protect a covered\nentity's or business associate's\nelectronic information systems\nand related buildings and\nequipment, from natural and\nenvironmental hazards, and\nunauthorized intrusion.\nSecurity or Security measures\nencompass all of the\nadministrative, physical, and\ntechnical safeguards in an\ninformation system.\nSecurity incident  means the\nattempted or successful\nunauthorized access, use,\ndisclosure, modification, or\ndestruction of information or\ninterference with system\noperations in an information\nsystem.\nTechnical safeguards  means the"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.3 04 Definitions.",
-    "chunk_id": "§-1",
-    "text": "technology and the policy and\nprocedures for its use that\nprotect electronic protected\nhealth information and control\naccess to it.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n63 User\nmeans a person or entity\nwith authorized access.\nWorkstation  means an electronic\ncomputing device, for example,\na laptop or desktop computer, or\nany other device that performs\nsimilar functions, and electronic\nmedia stored in its immediate\nenvironment.\n[68 FR 8376, Feb. 20, 2003, as\namended at 74 FR 42767, Aug.\n24, 2009; 78 FR 5693, Jan. 25,\n2013]"
+    "text": "As used in this subpart, the\nfollowing terms have the\nfollowing meanings: Access  means the ability or the\nmeans necessary to read, write,\nmodify, or communicate\ndata/information or otherwise\nuse any system resource. (This\ndefinition appli es to “access” as\nused in this subpart, not as used\nin subparts D or E of this part.)\nAdministrative safeguards  are\nadministrative actions, and\npolicies and procedures, to\nmanage the selection,\ndevelopment, implementation,\nand maintenance of security\nmeasures to protect electronic\nprotected health information and\nto manage the conduct of the\ncovered entity's or business\nassociate's workforce in relation\nto the protection of that\ninformation.\nAuthentication  means the\ncorroboration that a person is the\none claimed.\nAvailability  means the property\nthat data or information is\naccessible and useable upon\ndemand by an authorized\nperson.\nConfidentiality  means the\nproperty that data or information\nis not made available or\ndisclosed to unauthorized\npersons or processes.\nEncryption  means the use of an\nalgorithmic process to transform\ndata into a form in which there\nis a low probability of assigning\nmeaning without use of a\nconfidential process or key.\nFacility  means the physical\npremises and the interior and\nexterior of a building(s).\nInformation system  means an\ninterconnected set of\ninformation resources under the\nsame direct management control that shares common\nfunctionality. A system\nnormally includes hardware,\nsoftware, information, data,\napplications, communications,\nand people.\nIntegrity  means the property that\ndata or information have not\nbeen altered or destroyed in an\nunauthorized manner.\nMalicious software  means\nsoftware, for example, a virus,\ndesigned to damage or disrupt a\nsystem.\nPassword  means confidential\nauthentication information\ncomposed of a string of\ncharacters.\nPhysical safeguards  are physical\nmeasures, policies, and\nprocedures to protect a covered\nentity's or business associate's\nelectronic information systems\nand related buildings and\nequipment, from natural and\nenvironmental hazards, and\nunauthorized intrusion.\nSecurity or Security measures\nencompass all of the\nadministrative, physical, and\ntechnical safeguards in an\ninformation system.\nSecurity incident  means the\nattempted or successful\nunauthorized access, use,\ndisclosure, modification, or\ndestruction of information or\ninterference with system\noperations in an information\nsystem.\nTechnical safeguards  means the\ntechnology and the policy and\nprocedures for its use that\nprotect electronic protected\nhealth information and control\naccess to it.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n63 User\nmeans a person or entity\nwith authorized access.\nWorkstation  means an electronic\ncomputing device, for example,\na laptop or desktop computer, or\nany other device that performs\nsimilar functions, and electronic\nmedia stored in its immediate\nenvironment.\n[68 FR 8376, Feb. 20, 2003, as\namended at 74 FR 42767, Aug.\n24, 2009; 78 FR 5693, Jan. 25,\n2013]"
   },
   {
     "doc": "HIPAA",
@@ -2167,21 +1255,9 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 164.316 includes required",
-    "chunk_id": "§-0",
-    "text": "implementation specifications, a\ncovered entity or business\nassociate must implement the\nimplementation specifications.\n(3) When a standard adopted in"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.316 includes addressable",
     "chunk_id": "§-0",
     "text": "implementation specifications, a\ncovered entity or business\nassociate must —\n(i) Assess whether each\nimplementation specification is\na reasonable and appropriate\nsafeguard in its environment,\nwhen analyzed with reference to\nthe likely contribution to\nprotecting electronic protected\nhealth information; and\n(ii) As applicable to the covered\nentity or business associate —\n(A) Implement the\nimplementation specification if\nreasonable and appropriate; or\n(B) If implementing the\nimplementation specification is\nnot reasonable and\nappropriate —\n(1) Document why it would not\nbe reasonable and appropriate to\nimplement the implementation\nspecification; and\n(2) Implement an equivalent\nalternative measure if reasonable\nand appropriat e.\n(e) Maintenance.  A covered\nentity or business associate must\nreview and modify the security\nmeasures implemented under\nthis subpart as needed to\ncontinue provision of reasonable\nand appropriate protection of\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n64 elec\ntronic protected health\ninformation, and update\ndocumentation of such security\nmeasures in accordance with"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.316(b)(2)(iii).",
-    "chunk_id": "§-0",
-    "text": "[68 FR 8376, Feb. 20, 2003; 68\nFR 17153, Apr. 8, 2003; 78 FR\n5693, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
@@ -2205,25 +1281,13 @@
     "doc": "HIPAA",
     "section": "§ 164.310 Physical",
     "chunk_id": "§-0",
-    "text": "safeguards.\nA covered entity or business\nassociate must, in accordance\nwith § 164.306:\n(a)(1) Standard: Facility access\ncontrols.  Implement policies and\nprocedures to limit physical\naccess to its electronic\ninformation systems and the\nfacility or facilities in which\nthey are housed, while ensuring\nthat properly authorized access\nis allowed.\n(2) Implementation\nspecifications:\n(i) Contingency operations\n(Addressable).  Establish (and\nimplement as needed)\nprocedures that allow facility\naccess in support of restoration\nof lost data under the disaster\nrecovery plan and emergency\nmode operations plan in the\nevent of an emergency.\n(ii) Facility security plan\n(Addressable).  Implement\npolicies and procedures to\nsafeguard the facility and the\nequipment therein from\nunauthorized physical access,\ntampering, and theft.\n(iii) Access control and\nvalidation procedures\n(Addressable).  Implement\nprocedures to control and\nvalidate a person's access to\nfacilities based on their role or\nfunction, including visitor\ncontrol, and control of access to software programs for testing\nand revision.\n(iv) Maintenance records\n(Addressable).  Implement\npolicies and procedures to\ndocument repairs and\nmodifications to the physical\ncomponents of a facility which\nare related to security (for\nexample, hardware, walls, doors,\nand locks).\n(b) Standard: Workstation use.\nImplement policies and\nprocedures that specify the\nproper functions to be\nperformed, the manner in which\nthose functions are to be\nperformed, and the physical\nattributes of the surroundings of\na specific workstation or class of\nworkstation that can access\nelectronic protected health\ninformation.\n(c) Standard: Workstation\nsecurity.  Implement physical\nsafeguards for all workstations\nthat access electronic protected\nhealth information, to restrict\naccess to authorized users.\n(d)(1) Standard: Device and\nmedia controls.  Implemen t\npolicies and procedures that\ngovern the receipt and removal\nof hardware and electronic\nmedia that contain electronic\nprotected health information into\nand out of a facility, and the\nmovement of these items within\nthe facility.\n(2) Implementation\nspecifications:\n(i) Disposal  (Required).\nImplement policies and\nprocedures to address the final\ndisposition of electronic\nprotected health information,\nand/or the hardware or\nelectronic media on which it is\nstored. (ii) Media re-use  (Required).\nImplement procedures for\nremoval of electronic protected\nhealth information from\nelectronic media before the"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.310 Physical",
-    "chunk_id": "§-1",
-    "text": "media are made available for re-\nuse.\n(iii) Accountability\n(Addressable). Maintain a\nrecord of the movements of\nhardware and electronic media\nand any person responsible\ntherefore.\n(iv) Data backup and storage\n(Addressable).  Create a\nretrievable, exact copy of\nelectronic protected health\ninformation, when needed,\nbefore movement of equipment.\n[68 FR 8376, Feb. 20, 2003, as\namended at 78 FR 5694, Jan. 25,\n2013]"
+    "text": "safeguards.\nA covered entity or business\nassociate must, in accordance\nwith § 164.306:\n(a)(1) Standard: Facility access\ncontrols.  Implement policies and\nprocedures to limit physical\naccess to its electronic\ninformation systems and the\nfacility or facilities in which\nthey are housed, while ensuring\nthat properly authorized access\nis allowed.\n(2) Implementation\nspecifications:\n(i) Contingency operations\n(Addressable).  Establish (and\nimplement as needed)\nprocedures that allow facility\naccess in support of restoration\nof lost data under the disaster\nrecovery plan and emergency\nmode operations plan in the\nevent of an emergency.\n(ii) Facility security plan\n(Addressable).  Implement\npolicies and procedures to\nsafeguard the facility and the\nequipment therein from\nunauthorized physical access,\ntampering, and theft.\n(iii) Access control and\nvalidation procedures\n(Addressable).  Implement\nprocedures to control and\nvalidate a person's access to\nfacilities based on their role or\nfunction, including visitor\ncontrol, and control of access to software programs for testing\nand revision.\n(iv) Maintenance records\n(Addressable).  Implement\npolicies and procedures to\ndocument repairs and\nmodifications to the physical\ncomponents of a facility which\nare related to security (for\nexample, hardware, walls, doors,\nand locks).\n(b) Standard: Workstation use.\nImplement policies and\nprocedures that specify the\nproper functions to be\nperformed, the manner in which\nthose functions are to be\nperformed, and the physical\nattributes of the surroundings of\na specific workstation or class of\nworkstation that can access\nelectronic protected health\ninformation.\n(c) Standard: Workstation\nsecurity.  Implement physical\nsafeguards for all workstations\nthat access electronic protected\nhealth information, to restrict\naccess to authorized users.\n(d)(1) Standard: Device and\nmedia controls.  Implemen t\npolicies and procedures that\ngovern the receipt and removal\nof hardware and electronic\nmedia that contain electronic\nprotected health information into\nand out of a facility, and the\nmovement of these items within\nthe facility.\n(2) Implementation\nspecifications:\n(i) Disposal  (Required).\nImplement policies and\nprocedures to address the final\ndisposition of electronic\nprotected health information,\nand/or the hardware or\nelectronic media on which it is\nstored. (ii) Media re-use  (Required).\nImplement procedures for\nremoval of electronic protected\nhealth information from\nelectronic media before the\nmedia are made available for re-\nuse.\n(iii) Accountability\n(Addressable). Maintain a\nrecord of the movements of\nhardware and electronic media\nand any person responsible\ntherefore.\n(iv) Data backup and storage\n(Addressable).  Create a\nretrievable, exact copy of\nelectronic protected health\ninformation, when needed,\nbefore movement of equipment.\n[68 FR 8376, Feb. 20, 2003, as\namended at 78 FR 5694, Jan. 25,\n2013]"
   },
   {
     "doc": "HIPAA",
     "section": "§ 164.312 Technical",
     "chunk_id": "§-0",
     "text": "safeguards.\nA covered entity or business\nassociate must, in accordance\nwith § 164.306:\n(a)(1) Standard: Access control.\nImplement technical policies\nand procedures for electronic\ninformation systems that\nmaintain electronic protected\nhealth information to allow\naccess only to those persons or\nsoftware programs that have\nbeen granted access rights as\nspecified in § 164.308(a)(4).\n(2) Implementation\nspecifications:\n(i) Unique user identification\n(Required).  Assign a unique\nname and/or number for\nidentifying and tracking user\nidentity.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n67 (ii) E\nmergency access procedure\n(Required).  Establish (and\nimplement as needed)\nprocedures for obtaining\nnecessary electronic protected\nhealth information during an\nemergency.\n(iii) Automatic logoff\n(Addressable).  Implement\nelectronic procedures that\nterminate an electronic session\nafter a predetermined time of\ninactivity.\n(iv) Encryption and decryption\n(Addressable).  Implement a\nmechanism to encrypt and\ndecrypt electronic protected\nhealth information.\n(b) Standard: Audit controls.\nImplement hardware, software,\nand/or procedural mechanisms\nthat record and examine activity\nin information systems that\ncontain or use electronic\nprotected health information.\n(c)(1) Standard: Integrit y.\nImplement policies and\nprocedures to protect electronic\nprotected health information\nfrom improper alteration or\ndestruction.\n(2) Implementation\nspecification: Mechanism to\nauthenticate electronic\nprotected health information\n(Addressable).  Implement\nelectronic mechanisms to\ncorroborate that electronic\nprotected health information has\nnot been altered or destroyed in\nan unauthorized manner.\n(d) Standard: Person or entity\nauthentication.  Implement\nprocedures to verify that a\nperson or entity seeking acces s\nto electronic protected health\ninformation is the one claimed. (e)(1) Standard: Transmission\nsecurity.  Implement technical\nsecurity measures to guard\nagainst unauthorized access to\nelectronic protected health\ninformation that is being\ntransmitted over an electronic\ncommunications network.\n(2) Implementation\nspecifications:\n(i) Integrity controls\n(Addressable).  Implement\nsecurity measures to ensure that\nelectronically transmitted\nelectronic protected health\ninformation is not improperly\nmodified without detection until\ndisposed of.\n(ii) Encryption  (Addressable).\nImplement a mechanism to\nencrypt electronic protected\nhealth information whenever\ndeemed appropriate.\n[68 FR 8376, Feb. 20, 2003, as\namended at 78 FR 5694, Jan. 25,\n2013]"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.314 Organizational",
-    "chunk_id": "§-0",
-    "text": "requirements.\n(a)(1) Standard: Business\nassociate contracts or other\narrangements.  The contract or\nother arrangement required by"
   },
   {
     "doc": "HIPAA",
@@ -2277,13 +1341,7 @@
     "doc": "HIPAA",
     "section": "§ 164.318 Compliance dates",
     "chunk_id": "§-0",
-    "text": "for the initial implementation\nof the security standards.\n(a) Health plan.  (1) A health\nplan that is not a small health\nplan must comply with the\napplicable requirements of this\nsubpart no later than April 20,\n2005.\n(2) A small health plan must\ncomply with the applicable\nrequirements of this subpart no\nlater than April 20, 2006.\n(b) Health care clearinghouse.\nA health care clearinghouse\nmust comply with the applicable\nrequirements of this subpart no\nlater than April 20, 2005.\n(c) Health care provider.  A\ncovered health care provider\nmust comply with the applicable\nrequirements of this subpart no\nlater than April 20, 2005.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n69 Appendix\nA to Subpart C of Part\n164—Security Standards: Matrix\nStandards  Sections  Implementation Specifications (R)=Required,\n(A)=Addressable\nAdministrative Safeguards\nSecurity Management Process  164.308(a)(1)  Risk Analysis (R)\nRisk Management (R)\nSanction Policy (R)\nInformation System Activity Review (R)\nAssigned Security Responsibility  164.308(a)(2)  (R)\nWorkforce Security  164.308(a)(3)  Authorization and/or Supervision (A)\nWorkforce Clearance Procedure  (A)\nTermination Procedures (A)\nInformation Access Management  164.308(a)(4)  Isolating Health care Clearinghouse Function (R)\nAccess Authorization (A)\nAccess Establishment and Modification (A)\nSecurity Awareness and Training  164.308(a)(5)  Security Reminders (A)\nProtection from Malicious Software (A)\nLog-in Monitoring (A)\nPassword Management (A)\nSecurity Incident Procedures  164.308(a)(6)  Response and Reporting (R)\nContingency Plan  164.308(a)(7)  Data Backup Plan (R)\nDisaster Recovery Plan (R)\nEmergency Mode Operation Plan (R)\nTesting and Revision Procedure (A)\nApplications and Data Criticality Analysis (A)\nEvaluation  164.308(a)(8)  (R)\nBusiness Associate Contracts and Other\nArrangement  164.308(b)(1)  Written Contract or Other Arrangement (R)\nPhysical Safeguards\nFacility Access Controls  164.310(a)(1)  Contingency Operations (A)\nFacility Security Plan (A)\nAccess Control and Validation Procedures (A)\nMaintenance Records (A)\nWorkstation Use  164.310(b)  (R)\nWorkstation Security  164.310(c)  (R)\nDevice and Media Controls  164.310(d)(1)  Disposal (R)\nMedia Re -use (R)\nAccountability (A)\nData Backup and Storage (A)\nTechnical Safeguards (see §  164.312)\nAccess Control  164.312(a)(1)  Unique User Identification (R)\nEmergency Access Procedure (R)\nAutomatic Logoff (A)\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n70 Standards  Sections  Implementation Specifications (R)=Required,\n(A)=Addressable\nEncryption and Decryption (A)\nAudit Controls  164.312(b)  (R)"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.318 Compliance dates",
-    "chunk_id": "§-1",
-    "text": "Integrity  164.312(c)(1)  Mechanism to Authenticate Electronic Protected Health\nInformation (A)\nPerson or Entity Authentication  164.312(d)  (R)\nTransmission Security  164.312(e)(1)  Integrity Controls (A)\nEncryption (A)\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n71 Subp\nart D—Notification in the\nCase of Breach of Unsecured\nProtected Health Information\nSOURCE : 74 FR 42767, Aug. 24,\n2009, unless otherwise noted."
+    "text": "for the initial implementation\nof the security standards.\n(a) Health plan.  (1) A health\nplan that is not a small health\nplan must comply with the\napplicable requirements of this\nsubpart no later than April 20,\n2005.\n(2) A small health plan must\ncomply with the applicable\nrequirements of this subpart no\nlater than April 20, 2006.\n(b) Health care clearinghouse.\nA health care clearinghouse\nmust comply with the applicable\nrequirements of this subpart no\nlater than April 20, 2005.\n(c) Health care provider.  A\ncovered health care provider\nmust comply with the applicable\nrequirements of this subpart no\nlater than April 20, 2005.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n69 Appendix\nA to Subpart C of Part\n164—Security Standards: Matrix\nStandards  Sections  Implementation Specifications (R)=Required,\n(A)=Addressable\nAdministrative Safeguards\nSecurity Management Process  164.308(a)(1)  Risk Analysis (R)\nRisk Management (R)\nSanction Policy (R)\nInformation System Activity Review (R)\nAssigned Security Responsibility  164.308(a)(2)  (R)\nWorkforce Security  164.308(a)(3)  Authorization and/or Supervision (A)\nWorkforce Clearance Procedure  (A)\nTermination Procedures (A)\nInformation Access Management  164.308(a)(4)  Isolating Health care Clearinghouse Function (R)\nAccess Authorization (A)\nAccess Establishment and Modification (A)\nSecurity Awareness and Training  164.308(a)(5)  Security Reminders (A)\nProtection from Malicious Software (A)\nLog-in Monitoring (A)\nPassword Management (A)\nSecurity Incident Procedures  164.308(a)(6)  Response and Reporting (R)\nContingency Plan  164.308(a)(7)  Data Backup Plan (R)\nDisaster Recovery Plan (R)\nEmergency Mode Operation Plan (R)\nTesting and Revision Procedure (A)\nApplications and Data Criticality Analysis (A)\nEvaluation  164.308(a)(8)  (R)\nBusiness Associate Contracts and Other\nArrangement  164.308(b)(1)  Written Contract or Other Arrangement (R)\nPhysical Safeguards\nFacility Access Controls  164.310(a)(1)  Contingency Operations (A)\nFacility Security Plan (A)\nAccess Control and Validation Procedures (A)\nMaintenance Records (A)\nWorkstation Use  164.310(b)  (R)\nWorkstation Security  164.310(c)  (R)\nDevice and Media Controls  164.310(d)(1)  Disposal (R)\nMedia Re -use (R)\nAccountability (A)\nData Backup and Storage (A)\nTechnical Safeguards (see §  164.312)\nAccess Control  164.312(a)(1)  Unique User Identification (R)\nEmergency Access Procedure (R)\nAutomatic Logoff (A)\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n70 Standards  Sections  Implementation Specifications (R)=Required,\n(A)=Addressable\nEncryption and Decryption (A)\nAudit Controls  164.312(b)  (R)\nIntegrity  164.312(c)(1)  Mechanism to Authenticate Electronic Protected Health\nInformation (A)\nPerson or Entity Authentication  164.312(d)  (R)\nTransmission Security  164.312(e)(1)  Integrity Controls (A)\nEncryption (A)\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n71 Subp\nart D—Notification in the\nCase of Breach of Unsecured\nProtected Health Information\nSOURCE : 74 FR 42767, Aug. 24,\n2009, unless otherwise noted."
   },
   {
     "doc": "HIPAA",
@@ -2295,13 +1353,7 @@
     "doc": "HIPAA",
     "section": "§ 164.402 Definitions.",
     "chunk_id": "§-0",
-    "text": "As used in this subpart, the following\nterms have the following meanings:\nBreach  means the acquisition, access\nuse, or disclosure of protected health\ninformation in a manner not\npermitted under subpart E of this part\nwhich compromises the security or\nprivacy of the protected health\ninformation.\n(1) Breach excludes:\n(i) Any unintentional acquisition,\naccess, or use of protected health\ninformation by a workforce member\nor person acting under the authority\nof a covered entity or a business\nassociate, if such acquisition, access,\nor use was made in good faith and\nwithin the scope of authority and\ndoes not result in further use or\ndisclosure in a manner not permitted\nunder subpart E of this part.\n(ii) Any inadvertent disclosure by a\nperson who is authorized to access\nprotected health information at a\ncovered entity or business associate\nto another person authorized to\naccess protected health information\nat the same covered entity or\nbusiness associate, or organized\nhealth care arrangement in which the\ncovered entity participates, and the\ninformation received as a result of\nsuch disclosure is not further used or\n,\ndisclosed in a manner not permitted\nunder subpart E of this part.\n(iii) A disclosure of protected health\ninformation where a covered entity\nor business associate has a good faith\nbelief that an unauthorized person to\nwhom the disclosure was made\nwould not reasonably have been able\nto retain such information.\n(2) Except as provided in paragraph\n(1) of this definition, an acquisition,\naccess, use, or disclosure of protected\nhealth information in a manner not\npermitted under subpart E is\npresumed to be a breach unless the\ncovered entity or business associate,\nas applicable, demonstrates that there\nis a low probability that the protected\nhealth information has been\ncompromised based on a risk\nassessment of at least the following\nfactors:\n(i) The nature and extent of the\nprotected health information\ninvolved, including the types of\nidentifiers and the likelihood of re-\nidentification;\n(ii) The unauthorized person who\nused the protected health information\nor to whom the disclosure was made;\n(iii) Whether the protected health\ninformation was actually acquired or"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.402 Definitions.",
-    "chunk_id": "§-1",
-    "text": "viewed; and\n(iv) The extent to which the risk to\nthe protected health information has\nbeen mitigated.\nUnsecured protected health\ninformation  means protected health\ninformation that is not rendered\nunusable, unreadable, or\nindecipherable to unauthorized\npersons through the use of a\ntechnology or methodology specified\nby the Secretary in the guidance\nissued under section 13402(h)(2) of\nPublic Law 111- 5.\n[78 FR 5695, Jan. 25, 2013]"
+    "text": "As used in this subpart, the following\nterms have the following meanings:\nBreach  means the acquisition, access\nuse, or disclosure of protected health\ninformation in a manner not\npermitted under subpart E of this part\nwhich compromises the security or\nprivacy of the protected health\ninformation.\n(1) Breach excludes:\n(i) Any unintentional acquisition,\naccess, or use of protected health\ninformation by a workforce member\nor person acting under the authority\nof a covered entity or a business\nassociate, if such acquisition, access,\nor use was made in good faith and\nwithin the scope of authority and\ndoes not result in further use or\ndisclosure in a manner not permitted\nunder subpart E of this part.\n(ii) Any inadvertent disclosure by a\nperson who is authorized to access\nprotected health information at a\ncovered entity or business associate\nto another person authorized to\naccess protected health information\nat the same covered entity or\nbusiness associate, or organized\nhealth care arrangement in which the\ncovered entity participates, and the\ninformation received as a result of\nsuch disclosure is not further used or\n,\ndisclosed in a manner not permitted\nunder subpart E of this part.\n(iii) A disclosure of protected health\ninformation where a covered entity\nor business associate has a good faith\nbelief that an unauthorized person to\nwhom the disclosure was made\nwould not reasonably have been able\nto retain such information.\n(2) Except as provided in paragraph\n(1) of this definition, an acquisition,\naccess, use, or disclosure of protected\nhealth information in a manner not\npermitted under subpart E is\npresumed to be a breach unless the\ncovered entity or business associate,\nas applicable, demonstrates that there\nis a low probability that the protected\nhealth information has been\ncompromised based on a risk\nassessment of at least the following\nfactors:\n(i) The nature and extent of the\nprotected health information\ninvolved, including the types of\nidentifiers and the likelihood of re-\nidentification;\n(ii) The unauthorized person who\nused the protected health information\nor to whom the disclosure was made;\n(iii) Whether the protected health\ninformation was actually acquired or\nviewed; and\n(iv) The extent to which the risk to\nthe protected health information has\nbeen mitigated.\nUnsecured protected health\ninformation  means protected health\ninformation that is not rendered\nunusable, unreadable, or\nindecipherable to unauthorized\npersons through the use of a\ntechnology or methodology specified\nby the Secretary in the guidance\nissued under section 13402(h)(2) of\nPublic Law 111- 5.\n[78 FR 5695, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
@@ -2367,13 +1419,7 @@
     "doc": "HIPAA",
     "section": "§ 164.500 Applicability.",
     "chunk_id": "§-0",
-    "text": "(a) Except as otherwise provided\nherein, the standards, requirements,\nand implementation specifications of\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n74 this subpart apply to covered entities\nwith respect to protected health\ninformation.\n(b) Health care clearinghouses must\ncomply with the standards,\nrequirements, and implementation\nspecifications as follows:\n(1) When a health care clearinghouse\ncreates or receives protected health\ninformation as a business associate of\nanother covered entity, the\nclearinghouse must comply with:\n(i) Section 164.500 relating to\napplicability;\n(ii) Section 164.501 relating to\ndefinitions;\n(iii) Section 164.502 relating to uses\nand disclosures of protected health\ninformation, except that a\nclearinghouse is prohibited from\nusing or disclosing protected health\ninformation other than as permitted\nin the business associate contract\nunder which it created or received the\nprotected health information;\n(iv) Section 164.504 relating to the\norganizational requirements for\ncovered entities;\n(v) Section 164.512 relating to uses\nand disclosures for which individual\nauthorization or an opportunity to\nagree or object is not required, except\nthat a clearinghouse is prohibited\nfrom using or disclosing protected\nhealth information other than as\npermitted in the business associat e\ncontract under which it created or\nreceived the protected health\ninformation;\n(vi) Section 164.532 relating to\ntransition requirements; and\n(vii) Section 164.534 relating to\ncompliance dates for initial\nimplementation of the privacy\nstandards. (2\n) When a health care clearinghouse\ncreates or receives protected health\ninformation other than as a business\nassociate of a covered entity, the\nclearinghouse must comply with all\nof the standards, requirements, and\nimplementation specifications of this\nsubpart.\n(c) Where provided, the standards,\nrequirements, and implementation\nspecifications adopted under this\nsubpart apply to a business associate\nwith respect to the protected health\ninformation of a covered entity.\n(d) The standards, requirements, and\nimplementation specifications of this\nsubpart do not apply to the\nDepartment of Defense or to any\nother federal agency, or non-\ngovernmental organization acting on\nits behalf, when providing health care\nto overseas foreign national\nbeneficiaries.\n[65 FR 82802, Dec. 28, 2000, as\namended at 67 FR 53266, Aug. 14,\n2002; 68 FR 8381, Feb. 20, 2003; 78"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.500 Applicability.",
-    "chunk_id": "§-1",
-    "text": "FR 5695, Jan. 25, 2013]"
+    "text": "(a) Except as otherwise provided\nherein, the standards, requirements,\nand implementation specifications of\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n74 this subpart apply to covered entities\nwith respect to protected health\ninformation.\n(b) Health care clearinghouses must\ncomply with the standards,\nrequirements, and implementation\nspecifications as follows:\n(1) When a health care clearinghouse\ncreates or receives protected health\ninformation as a business associate of\nanother covered entity, the\nclearinghouse must comply with:\n(i) Section 164.500 relating to\napplicability;\n(ii) Section 164.501 relating to\ndefinitions;\n(iii) Section 164.502 relating to uses\nand disclosures of protected health\ninformation, except that a\nclearinghouse is prohibited from\nusing or disclosing protected health\ninformation other than as permitted\nin the business associate contract\nunder which it created or received the\nprotected health information;\n(iv) Section 164.504 relating to the\norganizational requirements for\ncovered entities;\n(v) Section 164.512 relating to uses\nand disclosures for which individual\nauthorization or an opportunity to\nagree or object is not required, except\nthat a clearinghouse is prohibited\nfrom using or disclosing protected\nhealth information other than as\npermitted in the business associat e\ncontract under which it created or\nreceived the protected health\ninformation;\n(vi) Section 164.532 relating to\ntransition requirements; and\n(vii) Section 164.534 relating to\ncompliance dates for initial\nimplementation of the privacy\nstandards. (2\n) When a health care clearinghouse\ncreates or receives protected health\ninformation other than as a business\nassociate of a covered entity, the\nclearinghouse must comply with all\nof the standards, requirements, and\nimplementation specifications of this\nsubpart.\n(c) Where provided, the standards,\nrequirements, and implementation\nspecifications adopted under this\nsubpart apply to a business associate\nwith respect to the protected health\ninformation of a covered entity.\n(d) The standards, requirements, and\nimplementation specifications of this\nsubpart do not apply to the\nDepartment of Defense or to any\nother federal agency, or non-\ngovernmental organization acting on\nits behalf, when providing health care\nto overseas foreign national\nbeneficiaries.\n[65 FR 82802, Dec. 28, 2000, as\namended at 67 FR 53266, Aug. 14,\n2002; 68 FR 8381, Feb. 20, 2003; 78\nFR 5695, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
@@ -2397,13 +1443,7 @@
     "doc": "HIPAA",
     "section": "§ 164.502(a)(5)(i), underwriting,",
     "chunk_id": "§-1",
-    "text": "or to enforce civil rights laws for\nwhich health information is relevant.\nIndirect treatment relationship\nmeans a relationship between an\nindividual and a health care provider\nin which:\n(1) The health care provider delivers\nhealth care to the individual based on\nthe orders of another health care\nprovider; and\n(2) The health care provider typically\nprovides services or products, or\nreports the diagnosis or results\nassociated with the health care,\ndirectly to another health care\nprovider, who provides the services\nor products or reports to the\nindividual.\nInmate  means a person incarcerated\nin or otherwise confined to a\ncorrectional institution.\nMarketing:  (1) Except as provided in\nparagraph (2) of this definition,\nmarketing means to make a\ncommunication about a product or\nservice that encourages recipients of\nthe communication to purchase or\nuse the product or service.\n(2) Marketing does not include a\ncommunication made:\n(i) To provide refill reminders or\notherwise communicate about a drug\nor biologic that is currently being\nprescribed for the individual, only if\nany financial remuneration received\nby the covered entity in exchange for\nmaking the communication is\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n76 reasonably related to the covered\nentity's cost of making the\ncommunication.\n(ii) For the following treatment and\nhealth care operations purposes,\nexcept where the covered entity\nreceives financial remuneration in\nexchange for making the\ncommunicati on:\n(A) For treatment of an individual by\na health care provider, including case\nmanagement or care coordination for\nthe individual, or to direct or\nrecommend alternative treatments,\ntherapies, health care providers, or\nsettings of care to the individual;\n(B) To describe a health-related\nproduct or service (or payment for\nsuch product or service) that is\nprovided by, or included in a plan of\nbenefits of, the covered entity\nmaking the communication,\nincluding communications about: the\nentities participating in a health care\nprovider network or health plan\nnetwork; replacement of, or\nenhancements to, a health plan; and\nhealth-related products or services\navailable only to a health plan\nenrollee that add value to, but are not\npart of, a plan of benefits; or"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.502(a)(5)(i), underwriting,",
-    "chunk_id": "§-2",
-    "text": "(C) For case management or care\ncoordination, contacting of\nindividuals with information about\ntreatment alternatives, and related\nfunctions to the extent these activities\ndo not fall within the definition of\ntreatment.\n(3) Financial remuneration  means\ndirect or indirect payment from or on\nbehalf of a third party whose product\nor service is being described. Direct\nor indirect payment does not include\nany payment for treatment of an\nindividual.\nPayment  means:\n(1) The activities undertaken by:  (i)\nExcept as prohibited under"
+    "text": "or to enforce civil rights laws for\nwhich health information is relevant.\nIndirect treatment relationship\nmeans a relationship between an\nindividual and a health care provider\nin which:\n(1) The health care provider delivers\nhealth care to the individual based on\nthe orders of another health care\nprovider; and\n(2) The health care provider typically\nprovides services or products, or\nreports the diagnosis or results\nassociated with the health care,\ndirectly to another health care\nprovider, who provides the services\nor products or reports to the\nindividual.\nInmate  means a person incarcerated\nin or otherwise confined to a\ncorrectional institution.\nMarketing:  (1) Except as provided in\nparagraph (2) of this definition,\nmarketing means to make a\ncommunication about a product or\nservice that encourages recipients of\nthe communication to purchase or\nuse the product or service.\n(2) Marketing does not include a\ncommunication made:\n(i) To provide refill reminders or\notherwise communicate about a drug\nor biologic that is currently being\nprescribed for the individual, only if\nany financial remuneration received\nby the covered entity in exchange for\nmaking the communication is\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n76 reasonably related to the covered\nentity's cost of making the\ncommunication.\n(ii) For the following treatment and\nhealth care operations purposes,\nexcept where the covered entity\nreceives financial remuneration in\nexchange for making the\ncommunicati on:\n(A) For treatment of an individual by\na health care provider, including case\nmanagement or care coordination for\nthe individual, or to direct or\nrecommend alternative treatments,\ntherapies, health care providers, or\nsettings of care to the individual;\n(B) To describe a health-related\nproduct or service (or payment for\nsuch product or service) that is\nprovided by, or included in a plan of\nbenefits of, the covered entity\nmaking the communication,\nincluding communications about: the\nentities participating in a health care\nprovider network or health plan\nnetwork; replacement of, or\nenhancements to, a health plan; and\nhealth-related products or services\navailable only to a health plan\nenrollee that add value to, but are not\npart of, a plan of benefits; or\n(C) For case management or care\ncoordination, contacting of\nindividuals with information about\ntreatment alternatives, and related\nfunctions to the extent these activities\ndo not fall within the definition of\ntreatment.\n(3) Financial remuneration  means\ndirect or indirect payment from or on\nbehalf of a third party whose product\nor service is being described. Direct\nor indirect payment does not include\nany payment for treatment of an\nindividual.\nPayment  means:\n(1) The activities undertaken by:  (i)\nExcept as prohibited under"
   },
   {
     "doc": "HIPAA",
@@ -2422,12 +1462,6 @@
     "section": "§ 164.502 Uses and disclosures of",
     "chunk_id": "§-0",
     "text": "protected health information:\nGeneral rules.\n(a) Standard.  A covered entity or\nbusiness associate may not use or\ndisclose protected health information\nexcept as permitted or required by\nthis subpart or by subpart C of part\n160 of this subchapter.\n(1) Covered entities: Permitted uses\nand disclosures.  A covered entity is\npermitted to use or disclose protected\nhealth information as follows:\n(i) To the individual;\n(ii) For treatment, payment, or health\ncare operations, as permitted by and\nin compliance with § 164.506;\n(iii) Incident to a use or disclosure\notherwise permitted or required by\nthis subpart, provided that the\ncovered entity has complied with the\napplicable requirements of\n§§ 164.502(b), 164.514(d), and\n164.530(c) with respect to such\notherwise permitted or required use\nor disclosure;\n(iv) Except for uses and disclosures\nprohibited under § 164.502(a)(5)(i),\n,\np\nursuant to and in compliance with\nvalid authorization under § 164.508\n(v) Pursuant to an agreement under,\nor as otherwise permitted by,"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.510; and",
-    "chunk_id": "§-0",
-    "text": "(vi) As permitted by and in\ncompliance with this section,"
   },
   {
     "doc": "HIPAA",
@@ -2452,12 +1486,6 @@
     "section": "§ 164.504(e)(2)(i)(A) or (B) if such",
     "chunk_id": "§-1",
     "text": "compliance with § 164.508(a)(4), a\ncovered entity or business associate\nmay not sell protected health\ninformation.\n(B) For purposes of this paragraph,\nsale of protected health information\nmeans:\n(1) Except as provided in paragraph\n(a)(5)(ii)(B)( 2) of this section, a\ndisclosure of protected health\ninformation by a covered entity or\nbusiness associate, if applicable,\nwhere the covered entity or business\nassociate directly or indirectly\nreceives remuneration from or on\nbehalf of the recipient of the\nprotected health information in\nexchange for the protected health\ninformation.\n(2) Sale of protected health\ninformation does not include a\ndisclosure of protected health\ninformation:\n(i) For public health purposes\npursuant to § 164.512(b) or"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.514(e);",
-    "chunk_id": "§-0",
-    "text": "(ii) For research purposes pursuant t"
   },
   {
     "doc": "HIPAA",
@@ -2551,12 +1579,6 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 164.410;",
-    "chunk_id": "§-0",
-    "text": "(D) In accordance with"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.502(e)(1)(ii), ensure that any",
     "chunk_id": "§-0",
     "text": "subcontractors that create, receive,\nmaintain, or transmit protected health\ninformation on behalf of the business\nassociate agree to the same\nrestrictions and conditions that apply\nto the business associate with respect\nto such information;\n(E) Make available protected health\ninformation in accordance with"
@@ -2578,12 +1600,6 @@
     "section": "§ 164.314(a)(1), if applicable, by",
     "chunk_id": "§-0",
     "text": "entering into a memorandum of\nunderstanding with the business\nassociate that contains terms that\naccomplish the objectives of\nparagraph (e)(2) of this section and"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.314(a)(2), if applicable.",
-    "chunk_id": "§-0",
-    "text": "(B) The covered entity may comply\nwith this paragraph and"
   },
   {
     "doc": "HIPAA",
@@ -2637,13 +1653,7 @@
     "doc": "HIPAA",
     "section": "§ 164.528; (",
     "chunk_id": "§-0",
-    "text": "H) Make its internal practices,\nbooks, and records relating to the use\nand disclosure of protected health\ninformation received from the group\nhealth plan available to the Secretary\nfor purposes of determining\ncompliance by the group health plan\nwith this subpart;\n(I) If feasible, return or destroy all\nprotected health information received\nfrom the group health plan that the\nsponsor still maintains in any form\nand retain no copies of such\ninformation when no longer needed\nfor the purpose for which disclosure\nwas made, except that, if such return\nor destruction is not feasible, limit\nfurther uses and disclosures to those\npurposes that make the return or\ndestruction of the information\ninfeasible; and\n(J) Ensure that the adequate\nseparation required in paragraph\n(f)(2)(iii) of this section is\nestablished.\n(iii) Provide for adequate separation\nbetween the group health plan and\nthe plan sponsor. The plan\ndocuments must:\n(A) Describe those employees or\nclasses of employees or other persons\nunder the control of the plan sponsor\nto be given access to the protected\nhealth information to be disclosed,\nprovided that any employee or\nperson who receives protected health\ninformation relating to payment\nunder, health care operations of, or\nother matters pertaining to the group\nhealth plan in the ordinary course of\nbusiness must be included in such\ndescription;\n(B) Restrict the access to and use by\nsuch employees and other persons\ndescribed in paragraph (f)(2)(iii)(A)\nof this section to the plan\nadministration functions that the plan\nsponsor performs for the group\nhealth plan; and\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n84 (C) Provide an effective mechanism\nfor resolving any issues of\nnoncompliance by persons described\nin paragraph (f)(2)(iii)(A) of this\nsection with the plan document\nprovisions required by this\nparagraph.\n(3) Implementation specifications:\nUses and disclosures.  A group health\nplan may:\n(i) Disclose protected health\ninformation to a plan sponsor to carr\nout plan administration functions that\nthe plan sponsor performs only\nconsistent with the provisions of\nparagraph (f)(2) of this section;\n(ii) Not permit a health insurance\nissuer or HMO with respect to the\ngroup health plan to disclose"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.528; (",
-    "chunk_id": "§-1",
-    "text": "protected health information to the\nplan sponsor except as permitted by\nthis paragraph;\n(iii) Not disclose and may not permit\na health insurance issuer or HMO to\ndisclose protected health information\nto a plan sponsor as otherwise\npermitted by this paragraph unless a\nstatement required by"
+    "text": "H) Make its internal practices,\nbooks, and records relating to the use\nand disclosure of protected health\ninformation received from the group\nhealth plan available to the Secretary\nfor purposes of determining\ncompliance by the group health plan\nwith this subpart;\n(I) If feasible, return or destroy all\nprotected health information received\nfrom the group health plan that the\nsponsor still maintains in any form\nand retain no copies of such\ninformation when no longer needed\nfor the purpose for which disclosure\nwas made, except that, if such return\nor destruction is not feasible, limit\nfurther uses and disclosures to those\npurposes that make the return or\ndestruction of the information\ninfeasible; and\n(J) Ensure that the adequate\nseparation required in paragraph\n(f)(2)(iii) of this section is\nestablished.\n(iii) Provide for adequate separation\nbetween the group health plan and\nthe plan sponsor. The plan\ndocuments must:\n(A) Describe those employees or\nclasses of employees or other persons\nunder the control of the plan sponsor\nto be given access to the protected\nhealth information to be disclosed,\nprovided that any employee or\nperson who receives protected health\ninformation relating to payment\nunder, health care operations of, or\nother matters pertaining to the group\nhealth plan in the ordinary course of\nbusiness must be included in such\ndescription;\n(B) Restrict the access to and use by\nsuch employees and other persons\ndescribed in paragraph (f)(2)(iii)(A)\nof this section to the plan\nadministration functions that the plan\nsponsor performs for the group\nhealth plan; and\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n84 (C) Provide an effective mechanism\nfor resolving any issues of\nnoncompliance by persons described\nin paragraph (f)(2)(iii)(A) of this\nsection with the plan document\nprovisions required by this\nparagraph.\n(3) Implementation specifications:\nUses and disclosures.  A group health\nplan may:\n(i) Disclose protected health\ninformation to a plan sponsor to carr\nout plan administration functions that\nthe plan sponsor performs only\nconsistent with the provisions of\nparagraph (f)(2) of this section;\n(ii) Not permit a health insurance\nissuer or HMO with respect to the\ngroup health plan to disclose\nprotected health information to the\nplan sponsor except as permitted by\nthis paragraph;\n(iii) Not disclose and may not permit\na health insurance issuer or HMO to\ndisclose protected health information\nto a plan sponsor as otherwise\npermitted by this paragraph unless a\nstatement required by"
   },
   {
     "doc": "HIPAA",
@@ -2655,13 +1665,7 @@
     "doc": "HIPAA",
     "section": "§ 164.506 Uses and disclosures to",
     "chunk_id": "§-0",
-    "text": "carry out treatment, payment, or\nhealth care operations.\n(a) Standard: Permitted uses and\ndisclosures.  Except with respect to\nuses or disclosures that require an\nauthorization under § 164.508(a)(2)\nthrough (4) or that are prohibited\nunder § 164.502(a)(5)(i), a covered\nentity may use or disclose protected\nhealth information for treatment,\npayment, or health care operations as\nset forth in paragraph (c) of this\nsection, provided that such use or\ndisclosure is consistent with other\napplicable requirements of this\nsubpart.\n(b) Standard: Consent for uses and\ndisclosures permitted.\n(1) A covered entity may obtain\nconsent of the individual to use or\ndisclose protected health information\nto carry out treatment, payment, or\nhealth care operations.\n(2) Consent, under paragraph (b) of\nthis section, shall not be effective to\npermit a use or disclosure of\nprotected health information when an\nauthorization, under § 164.508, is  required or when another condition\nmust be met for such use or\ndisclosure to be permissible under\nthis subpart.\n(c) Implementation specifications:\nTreatment, payment, or health care\noperations.  (1) A covered entity may\nuse or disclose protected health\ninformation for its own treatment,\npayment, or health care operations.\n(2) A covered entity may disclose\nprotected health information for\ntreatment activities of a health care\nprovider.\n(3) A covered entity may disclose\nprotected health information to\nanother covered entity or a health\ncare provider for the payment\nactivities of the entity that receives\nthe information.\n(4) A covered entity may disclose\nprotected health information to\nanother covered entity for health care\noperations activities of the entity that\nreceives the information, if each\nentity either has or had a relationship\nwith the individual who is the subject\nof the protected health information\nbeing requested, the protected health\ninformation pertains to such\nrelationship, and the disclosure is:\n(i) For a purpose listed in paragraph\n(1) or (2) of the definition of health\ncare operations; or\n(ii) For the purpose of health care\nfraud and abuse detection or\ncompliance.\n(5) A covered entity that participates\nin an organized health care\narrangement may disclose protected\nhealth information about an"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.506 Uses and disclosures to",
-    "chunk_id": "§-1",
-    "text": "individual to other participants in the\norganized health care arrangement\nfor any health care operations\nactivities of the organized health care\narrangement.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n85 [\n67 FR 53268, Aug. 14, 2002, as\namended at 78 FR 5698, Jan. 25,\n2013]"
+    "text": "carry out treatment, payment, or\nhealth care operations.\n(a) Standard: Permitted uses and\ndisclosures.  Except with respect to\nuses or disclosures that require an\nauthorization under § 164.508(a)(2)\nthrough (4) or that are prohibited\nunder § 164.502(a)(5)(i), a covered\nentity may use or disclose protected\nhealth information for treatment,\npayment, or health care operations as\nset forth in paragraph (c) of this\nsection, provided that such use or\ndisclosure is consistent with other\napplicable requirements of this\nsubpart.\n(b) Standard: Consent for uses and\ndisclosures permitted.\n(1) A covered entity may obtain\nconsent of the individual to use or\ndisclose protected health information\nto carry out treatment, payment, or\nhealth care operations.\n(2) Consent, under paragraph (b) of\nthis section, shall not be effective to\npermit a use or disclosure of\nprotected health information when an\nauthorization, under § 164.508, is  required or when another condition\nmust be met for such use or\ndisclosure to be permissible under\nthis subpart.\n(c) Implementation specifications:\nTreatment, payment, or health care\noperations.  (1) A covered entity may\nuse or disclose protected health\ninformation for its own treatment,\npayment, or health care operations.\n(2) A covered entity may disclose\nprotected health information for\ntreatment activities of a health care\nprovider.\n(3) A covered entity may disclose\nprotected health information to\nanother covered entity or a health\ncare provider for the payment\nactivities of the entity that receives\nthe information.\n(4) A covered entity may disclose\nprotected health information to\nanother covered entity for health care\noperations activities of the entity that\nreceives the information, if each\nentity either has or had a relationship\nwith the individual who is the subject\nof the protected health information\nbeing requested, the protected health\ninformation pertains to such\nrelationship, and the disclosure is:\n(i) For a purpose listed in paragraph\n(1) or (2) of the definition of health\ncare operations; or\n(ii) For the purpose of health care\nfraud and abuse detection or\ncompliance.\n(5) A covered entity that participates\nin an organized health care\narrangement may disclose protected\nhealth information about an\nindividual to other participants in the\norganized health care arrangement\nfor any health care operations\nactivities of the organized health care\narrangement.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n85 [\n67 FR 53268, Aug. 14, 2002, as\namended at 78 FR 5698, Jan. 25,\n2013]"
   },
   {
     "doc": "HIPAA",
@@ -2691,13 +1695,7 @@
     "doc": "HIPAA",
     "section": "§ 164.508 Uses and disclosures for",
     "chunk_id": "§-4",
-    "text": "individual or the purpose of the use\nor disclosure. The statement “end of\nthe research study,” “none,” or\nsimilar language is sufficient if the\nauthorization is for a use or\ndisclosure of protected health\ninformation for research, including\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n87 for the creation and maintenance of a\nresearch database or research\nrepository.\n(vi) Signature of the individual and\ndate. If the authorization is signed by\na personal representative of the\nindividual, a description of such\nrepresentative's authority to act for\nthe individual must also be provided.\n(2) Required statements.  In addition\nto the core elements, the\nauthorization must contain\nstatements adequate to place the\nindividual on notice of all of the\nfollowing:\n(i) The individual's right to revoke\nthe authorization in writing, and\neither:\n(A) The exceptions to the right to\nrevoke and a description of how the\nindividual may revoke the\nauthorization; or\n(B) To the extent that the information\nin paragraph (c)(2)(i)(A) of this\nsection is included in the notice\nrequired by § 164.520, a reference to\nthe covered entity's notice.\n(ii) The ability or inability to\ncondition treatment, payment,\nenrollment or eligibility for benefits\non the authorization, by stating\neither:\n(A) The covered entity may not\ncondition treatment, payment,\nenrollment or eligibility for benefits\non whether the individual signs the\nauthorization when the prohibition on\nconditioning of authorizations in\nparagraph (b)(4) of this section\napplies; or\n(B) The consequences to the\nindividual of a refusal to sign the\nauthorization when, in accordance\nwith paragraph (b)(4) of this section,\nthe covered entity can condition\ntreatment, enrollment in the health  plan, or eligibility for benefits on\nfailure to obtain such authorization.\n(iii) The potential for information\ndisclosed pursuant to the\nauthorization to be subject to\nredisclosure by the recipient and no\nlonger be protected by this subpart.\n(3) Plain language requirement.  The\nauthorization must be written in plain\nlanguage.\n(4) Copy to the individual.  If a\ncovered entity seeks an authorization\nfrom an individual for a use or\ndisclosure of protected health\ninformation, the covered entity must"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.508 Uses and disclosures for",
-    "chunk_id": "§-5",
-    "text": "provide the individual with a copy of\nthe signed authorization.\n[67 FR 53268, Aug. 14, 2002, as\namended at 78 FR 5699, Jan. 25,\n2013]"
+    "text": "individual or the purpose of the use\nor disclosure. The statement “end of\nthe research study,” “none,” or\nsimilar language is sufficient if the\nauthorization is for a use or\ndisclosure of protected health\ninformation for research, including\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n87 for the creation and maintenance of a\nresearch database or research\nrepository.\n(vi) Signature of the individual and\ndate. If the authorization is signed by\na personal representative of the\nindividual, a description of such\nrepresentative's authority to act for\nthe individual must also be provided.\n(2) Required statements.  In addition\nto the core elements, the\nauthorization must contain\nstatements adequate to place the\nindividual on notice of all of the\nfollowing:\n(i) The individual's right to revoke\nthe authorization in writing, and\neither:\n(A) The exceptions to the right to\nrevoke and a description of how the\nindividual may revoke the\nauthorization; or\n(B) To the extent that the information\nin paragraph (c)(2)(i)(A) of this\nsection is included in the notice\nrequired by § 164.520, a reference to\nthe covered entity's notice.\n(ii) The ability or inability to\ncondition treatment, payment,\nenrollment or eligibility for benefits\non the authorization, by stating\neither:\n(A) The covered entity may not\ncondition treatment, payment,\nenrollment or eligibility for benefits\non whether the individual signs the\nauthorization when the prohibition on\nconditioning of authorizations in\nparagraph (b)(4) of this section\napplies; or\n(B) The consequences to the\nindividual of a refusal to sign the\nauthorization when, in accordance\nwith paragraph (b)(4) of this section,\nthe covered entity can condition\ntreatment, enrollment in the health  plan, or eligibility for benefits on\nfailure to obtain such authorization.\n(iii) The potential for information\ndisclosed pursuant to the\nauthorization to be subject to\nredisclosure by the recipient and no\nlonger be protected by this subpart.\n(3) Plain language requirement.  The\nauthorization must be written in plain\nlanguage.\n(4) Copy to the individual.  If a\ncovered entity seeks an authorization\nfrom an individual for a use or\ndisclosure of protected health\ninformation, the covered entity must\nprovide the individual with a copy of\nthe signed authorization.\n[67 FR 53268, Aug. 14, 2002, as\namended at 78 FR 5699, Jan. 25,\n2013]"
   },
   {
     "doc": "HIPAA",
@@ -2817,13 +1815,7 @@
     "doc": "HIPAA",
     "section": "§ 164.510, in the situations covered",
     "chunk_id": "§-15",
-    "text": "individual or other inmates;\n(C) The health and safety of the\nofficers or employees of or others at\nthe correctional institution;\n(D) The health and safety of such\nindividuals and officers or other\npersons responsible for the\ntransporting of inmates or their\ntransfer from one institution, facility,\nor setting to another; (E) Law enforcement on the premises\nof the correctional institution; or\n(F) The administration and\nmaintenance of the safety, security,\nand good order of the correctional\ninstitution.\n(ii) Permitted uses.  A covered entity\nthat is a correctional institution may\nuse protected health information of\nindividuals who are inmates for any\npurpose for which such protected\nhealth information may be disclosed.\n(iii) No application after release.  For\nthe purposes of this provision, an\nindividual is no longer an inmate\nwhen released on parole, probation,\nsupervised release, or otherwise is no\nlonger in lawful custody.\n(6) Covered entities that are\ngovernment programs providing\npublic benefits.\n(i) A health plan that is a government\nprogram providing public benefits\nmay disclose protected health\ninformation relating to eligibility for\nor enrollment in the health plan to\nanother agency administering a\ngovernment program providing\npublic benefits if the sharing of\neligibility or enrollment information\namong such government agencies or\nthe maintenance of such information\nin a single or combined data system\naccessible to all such government\nagencies is required or expressly\nauthorized by statute or regulation.\n(ii) A covered entity that is a\ngovernment agency administering a\ngovernment program providing\npublic benefits may disclose\nprotected health information relating\nto the program to another covered\nentity that is a government agency\nadministering a government program\nproviding public benefits if the\nprograms serve the same or similar\npopulations and the disclosure of\nprotected health information is\nnecessary to coordinate the covered functions of such programs or to\nimprove administration and\nmanagement relating to the covered\nfunctions of such programs.\n(l) Standard: Disclosures for\nworkers' compensation.  A covered\nentity may disclose protected health\ninformation as authorized by and to\nthe extent necessary to comply with\nlaws relating to workers'\ncompensation or other similar\nprograms, established by law, that"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.510, in the situations covered",
-    "chunk_id": "§-16",
-    "text": "provide benefits for work-related\ninjuries or illness without regard to\nfault.\n[65 FR 82802, Dec. 28, 2000, as\namended at 67 FR 53270, Aug. 14,\n2002; 78 FR 5700, Jan. 25, 2013]"
+    "text": "individual or other inmates;\n(C) The health and safety of the\nofficers or employees of or others at\nthe correctional institution;\n(D) The health and safety of such\nindividuals and officers or other\npersons responsible for the\ntransporting of inmates or their\ntransfer from one institution, facility,\nor setting to another; (E) Law enforcement on the premises\nof the correctional institution; or\n(F) The administration and\nmaintenance of the safety, security,\nand good order of the correctional\ninstitution.\n(ii) Permitted uses.  A covered entity\nthat is a correctional institution may\nuse protected health information of\nindividuals who are inmates for any\npurpose for which such protected\nhealth information may be disclosed.\n(iii) No application after release.  For\nthe purposes of this provision, an\nindividual is no longer an inmate\nwhen released on parole, probation,\nsupervised release, or otherwise is no\nlonger in lawful custody.\n(6) Covered entities that are\ngovernment programs providing\npublic benefits.\n(i) A health plan that is a government\nprogram providing public benefits\nmay disclose protected health\ninformation relating to eligibility for\nor enrollment in the health plan to\nanother agency administering a\ngovernment program providing\npublic benefits if the sharing of\neligibility or enrollment information\namong such government agencies or\nthe maintenance of such information\nin a single or combined data system\naccessible to all such government\nagencies is required or expressly\nauthorized by statute or regulation.\n(ii) A covered entity that is a\ngovernment agency administering a\ngovernment program providing\npublic benefits may disclose\nprotected health information relating\nto the program to another covered\nentity that is a government agency\nadministering a government program\nproviding public benefits if the\nprograms serve the same or similar\npopulations and the disclosure of\nprotected health information is\nnecessary to coordinate the covered functions of such programs or to\nimprove administration and\nmanagement relating to the covered\nfunctions of such programs.\n(l) Standard: Disclosures for\nworkers' compensation.  A covered\nentity may disclose protected health\ninformation as authorized by and to\nthe extent necessary to comply with\nlaws relating to workers'\ncompensation or other similar\nprograms, established by law, that\nprovide benefits for work-related\ninjuries or illness without regard to\nfault.\n[65 FR 82802, Dec. 28, 2000, as\namended at 67 FR 53270, Aug. 14,\n2002; 78 FR 5700, Jan. 25, 2013]"
   },
   {
     "doc": "HIPAA",
@@ -2887,12 +1879,6 @@
   },
   {
     "doc": "HIPAA",
-    "section": "§ 164.512(i)(2) may be satisfied by",
-    "chunk_id": "§-0",
-    "text": "one or more written statements,\nprovided that each is appropriately\ndated and signed in accordance with"
-  },
-  {
-    "doc": "HIPAA",
     "section": "§ 164.512(i)(2)(i) and (v).",
     "chunk_id": "§-0",
     "text": "(ii) Identity of public officials.  A\ncovered entity may rely, if such\nreliance is reasonable under the\ncircumstances, on any of the\nfollowing to verify identity when the\ndisclosure of protected health information is to a public official or a\nperson acting on behalf of the public\nofficial:\n(A) If the request is made in person,\npresentation of an agency\nidentification badge, other official\ncredentials, or other proof of\ngovernment status;\n(B) If the request is in writing, the\nrequest is on the appropriate\ngovernment letterhead; or\n(C) If the disclosure is to a person\nacting on behalf of a public official, a\nwritten statement on appropriate\ngovernment letterhead that the person\nis acting under the government's\nauthority or other evidence or\ndocumentation of agency, such as a\ncontract for services, memorandum\nof understanding, or purchase order,\nthat establishes that the person is\nacting on behalf of the public\nofficial.\n(iii) Authority of public officials.  A\ncovered entity may rely, if such\nreliance is reasonable under the\ncircumstances, on any of the\nfollowing to verify authority when\nthe disclosure of protected health\ninformation is to a public official or a\nperson acting on behalf of the public\nofficial:\n(A) A written statement of the legal\nauthority under which the\ninformation is requested, or, if a\nwritten statement would be\nimpracticable, an oral statement of\nsuch legal authority;\n(B) If a request is made pursuant to\nlegal process, warrant, subpoena,\norder, or other legal process issued\nby a grand jury or a judicial or\nadministrative tribunal is presumed\nto constitute legal authority.\n(iv) Exercise of professional\njudgment.  The verification\nrequirements of this paragraph are\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n101 met i\nf the covered entity relies on the\nexercise of professional judgment in\nmaking a use or disclosure in\naccordance with § 164.510 or acts on\na good faith belief in making a\ndisclosure in accordance with"
@@ -2913,13 +1899,7 @@
     "doc": "HIPAA",
     "section": "§ 164.504(a) or information on",
     "chunk_id": "§-0",
-    "text": "whether the individual is\nparticipating in the group health plan,\nor is enrolled in or has disenrolled\nfrom a health insurance issuer or\nHMO offered by the plan, must:\n(A) Maintain a notice under this\nsection; and\n(B) Provide such notice upon request\nto any person. The provisions of\nparagraph (c)(1) of this section do\nnot apply to such group health plan.\n(iii) A group health plan that\nprovides health benefits solely\nthrough an insurance contract with a\nhealth insurance issuer or HMO, and\ndoes not create or receive protected\nhealth information other than\nsummary health information as\ndefined in § 164.504(a) or\ninformation on whether an individual\nis participating in the group health\nplan, or is enrolled in or has\ndisenrolled from a health insurance\nissuer or HMO offered by the plan, is\nnot required to maintain or provide a\nnotice under this section.\n(3) Exception for inmates.  An inmate\ndoes not have a right to notice under\nthis section, and the requirements of\nthis section do not apply to a\ncorrectional institution that is a\ncovered entity.\n(b) Implementation specifications:\nContent of notice.\n(1) Required elements.  The covered\nentity must provide a notice that is\nwritten in plain language and that\ncontains the elements required by\nthis paragraph.\n(i) Header.  The notice must contain\nthe following statement as a header\nor otherwise prominently displayed:\n“THIS NOTICE DESCRIBES HOW\nMEDICAL INFORMATION\nABOUT YOU MAY BE USED AND DISCLOSED AND HOW\nYOU CAN GET ACCESS TO THIS\nINFORMATION. PLEASE\nREVIEW IT CAREFULLY.”\n(ii) Uses and disclosures.  The notice\nmust contain:\n(A) A description, including at least\none example, of the types of uses and\ndisclosures that the covered entity is\npermitted by this subpart to make for\neach of the following purposes:\ntreatment, payment, and health care\noperations.\n(B) A description of each of the other\npurposes for which the covered entity\nis permitted or required by this\nsubpart to use or disclose protected\nhealth information without the\nindividual's written authorization.\n(C) If a use or disclosure for any\npurpose described in paragraphs\n(b)(1)(ii)(A) or (B) of this section is"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.504(a) or information on",
-    "chunk_id": "§-1",
-    "text": "prohibited or materially limited by\nother applicable law, the description\nof such use or disclosure must reflect\nthe more stringent law as defined in"
+    "text": "whether the individual is\nparticipating in the group health plan,\nor is enrolled in or has disenrolled\nfrom a health insurance issuer or\nHMO offered by the plan, must:\n(A) Maintain a notice under this\nsection; and\n(B) Provide such notice upon request\nto any person. The provisions of\nparagraph (c)(1) of this section do\nnot apply to such group health plan.\n(iii) A group health plan that\nprovides health benefits solely\nthrough an insurance contract with a\nhealth insurance issuer or HMO, and\ndoes not create or receive protected\nhealth information other than\nsummary health information as\ndefined in § 164.504(a) or\ninformation on whether an individual\nis participating in the group health\nplan, or is enrolled in or has\ndisenrolled from a health insurance\nissuer or HMO offered by the plan, is\nnot required to maintain or provide a\nnotice under this section.\n(3) Exception for inmates.  An inmate\ndoes not have a right to notice under\nthis section, and the requirements of\nthis section do not apply to a\ncorrectional institution that is a\ncovered entity.\n(b) Implementation specifications:\nContent of notice.\n(1) Required elements.  The covered\nentity must provide a notice that is\nwritten in plain language and that\ncontains the elements required by\nthis paragraph.\n(i) Header.  The notice must contain\nthe following statement as a header\nor otherwise prominently displayed:\n“THIS NOTICE DESCRIBES HOW\nMEDICAL INFORMATION\nABOUT YOU MAY BE USED AND DISCLOSED AND HOW\nYOU CAN GET ACCESS TO THIS\nINFORMATION. PLEASE\nREVIEW IT CAREFULLY.”\n(ii) Uses and disclosures.  The notice\nmust contain:\n(A) A description, including at least\none example, of the types of uses and\ndisclosures that the covered entity is\npermitted by this subpart to make for\neach of the following purposes:\ntreatment, payment, and health care\noperations.\n(B) A description of each of the other\npurposes for which the covered entity\nis permitted or required by this\nsubpart to use or disclose protected\nhealth information without the\nindividual's written authorization.\n(C) If a use or disclosure for any\npurpose described in paragraphs\n(b)(1)(ii)(A) or (B) of this section is\nprohibited or materially limited by\nother applicable law, the description\nof such use or disclosure must reflect\nthe more stringent law as defined in"
   },
   {
     "doc": "HIPAA",
@@ -2932,12 +1912,6 @@
     "section": "§ 164.514(f)(1), the covered entity",
     "chunk_id": "§-0",
     "text": "may contact the individual to raise\nfunds for the covered entity and the\nindividual has a right to opt out of\nreceiving such communications;\n(B) In accordance with § 164.504(f),\nthe group health plan, or a health\ninsurance issuer or HMO with\nrespect to a group health plan, may\ndisclose protected health information\nto the sponsor of the plan; or\n(C) If a covered entity that is a health\nplan, excluding an issuer of a long-\nterm care policy falling within\nparagraph (1)(viii) of the definition\nof health plan,  intends to use or\ndisclose protected health information\nfor underwriting purposes, a\nstatement that the covered entity is\nprohibited from using or disclosing\nprotected health information that is\ngenetic information of an individual\nfor such purposes.\n(iv) Individual rights.  The notice\nmust contain a statement of the\nindividual's rights with respect to\nprotected health information and a\nbrief description of how the\nindividual may exercise these rights,\nas follows:\n(A) The right to request restrictions\non certain uses and disclosures of\nprotected health information as\nprovided by § 164.522(a), including\na statement that the covered entity is\nnot required to agree to a requested\nrestriction, except in case of a\ndisclosure restricted under"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.522(a)(1)(vi); (B) The right to receive confidential",
-    "chunk_id": "§-0",
-    "text": "communications of protected health\ninformation as provided by"
   },
   {
     "doc": "HIPAA",
@@ -3075,13 +2049,7 @@
     "doc": "HIPAA",
     "section": "§ 164.530(a)(1)(ii).",
     "chunk_id": "§-0",
-    "text": "(2) Statement of disagreement . The\ncovered entity must permit the\nindividual to submit to the covered\nentity a written statement disagreeing\nwith the denial of all or part of a\nrequested amendment and the basis\nof such disagreement. The covered\nentity may reasonably limit the\nlength of a statement of\ndisagreement.\n(3) Rebuttal statement . The covered\nentity may prepare a written rebuttal\nto the individual's statement of\ndisagreement. Whenever such a\nrebuttal is prepared, the covered\nentity must provide a copy to the\nindividual who submitted the\nstatement of disagreement.\n(4) Recordkeeping . The covered\nentity must, as appropriate, identify\nthe record or protected health\ninformation in the designated record\nset that is the subject of the disputed\namendment and append or otherwise\nlink the individual's request for an\namendment, the covered entity's\ndenial of the request, the individual's\nstatement of disagreement, if any,\nand the covered entity's rebuttal, if\nany, to the designated record set.\n(5) Future disclosures . (i) If a\nstatement of disagreement has been\nsubmitted by the individual, the\ncovered entity must include the\nmaterial appended in accordance\nwith paragraph (d)(4) of this section,\nor, at the election of the covered\nentity, an accurate summary of any\nsuch information, with any\nsubsequent disclosure of the\nprotected health information to which\nthe disagreement relates.\n(ii) If the individual has not\nsubmitted a written statement of\ndisagreement, the covered entity\nmust include the individual's request\nfor amendment and its denial, or an\naccurate summary of such\ninformation, with any subsequent\ndisclosure of the protected health\ninformation only if the individual has\nrequested such action in accordance\nwith paragraph (d)(1)(iii) of this\nsection.\n(iii) When a subsequent disclosure\ndescribed in paragraph (d)(5)(i) or\n(ii) of this section is made using a\nstandard transaction under part 162\nof this subchapter that does not\npermit the additional material to be\nincluded with the disclosure, the\ncovered entity may separately\ntransmit the material required by\nparagraph (d)(5)(i) or (ii) of this\nsection, as applicable, to the recipient\nof the standard transaction.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.530(a)(1)(ii).",
-    "chunk_id": "§-1",
-    "text": "110 (e) I\nmplementation specification:\nActions on notices of amendment.  A\ncovered entity that is informed by\nanother covered entity of an\namendment to an individual's\nprotected health information, in\naccordance with paragraph (c)(3) of\nthis section, must amend the\nprotected health information in\ndesignated record sets as provided by\nparagraph (c)(1) of this section.\n(f) Implementation specification:\nDocumentation.  A covered entity\nmust document the titles of the\npersons or offices responsible for\nreceiving and processing requests for\namendments by individuals and\nretain the documentation as required\nby § 164.530(j)."
+    "text": "(2) Statement of disagreement . The\ncovered entity must permit the\nindividual to submit to the covered\nentity a written statement disagreeing\nwith the denial of all or part of a\nrequested amendment and the basis\nof such disagreement. The covered\nentity may reasonably limit the\nlength of a statement of\ndisagreement.\n(3) Rebuttal statement . The covered\nentity may prepare a written rebuttal\nto the individual's statement of\ndisagreement. Whenever such a\nrebuttal is prepared, the covered\nentity must provide a copy to the\nindividual who submitted the\nstatement of disagreement.\n(4) Recordkeeping . The covered\nentity must, as appropriate, identify\nthe record or protected health\ninformation in the designated record\nset that is the subject of the disputed\namendment and append or otherwise\nlink the individual's request for an\namendment, the covered entity's\ndenial of the request, the individual's\nstatement of disagreement, if any,\nand the covered entity's rebuttal, if\nany, to the designated record set.\n(5) Future disclosures . (i) If a\nstatement of disagreement has been\nsubmitted by the individual, the\ncovered entity must include the\nmaterial appended in accordance\nwith paragraph (d)(4) of this section,\nor, at the election of the covered\nentity, an accurate summary of any\nsuch information, with any\nsubsequent disclosure of the\nprotected health information to which\nthe disagreement relates.\n(ii) If the individual has not\nsubmitted a written statement of\ndisagreement, the covered entity\nmust include the individual's request\nfor amendment and its denial, or an\naccurate summary of such\ninformation, with any subsequent\ndisclosure of the protected health\ninformation only if the individual has\nrequested such action in accordance\nwith paragraph (d)(1)(iii) of this\nsection.\n(iii) When a subsequent disclosure\ndescribed in paragraph (d)(5)(i) or\n(ii) of this section is made using a\nstandard transaction under part 162\nof this subchapter that does not\npermit the additional material to be\nincluded with the disclosure, the\ncovered entity may separately\ntransmit the material required by\nparagraph (d)(5)(i) or (ii) of this\nsection, as applicable, to the recipient\nof the standard transaction.\nHIPAA Administrative Simplification Regulation Text\nMarch 2013\n110 (e) I\nmplementation specification:\nActions on notices of amendment.  A\ncovered entity that is informed by\nanother covered entity of an\namendment to an individual's\nprotected health information, in\naccordance with paragraph (c)(3) of\nthis section, must amend the\nprotected health information in\ndesignated record sets as provided by\nparagraph (c)(1) of this section.\n(f) Implementation specification:\nDocumentation.  A covered entity\nmust document the titles of the\npersons or offices responsible for\nreceiving and processing requests for\namendments by individuals and\nretain the documentation as required\nby § 164.530(j)."
   },
   {
     "doc": "HIPAA",
@@ -3148,12 +2116,6 @@
     "section": "§ 164.520(b)(1)(v)(C), included in",
     "chunk_id": "§-0",
     "text": "the notice a statement reserving its\nright to make such a change in its\nprivacy practices; or\n(iii) A covered entity may make any\nother changes to policies and\nprocedures at any time, provided that\nthe changes are documented and\nimplemented in accordance with\nparagraph (i)(5) of this section.\n(3) Implementation specification:\nChanges in law.  Whenever there is a\nchange in law that necessitates a\nchange to the covered entity's policies or procedures, the covered\nentity must promptly document and\nimplement the revised policy or\nprocedure. If the change in law\nmaterially affects the content of the\nnotice required by § 164.520, the\ncovered entity must promptly make\nthe appropriate revisions to the notice\nin accordance with § 164.520(b)(3).\nNothing in this paragraph may be\nused by a covered entity to excuse a\nfailure to comply with the law.\n(4) Implementation specifications:\nChanges to privacy practices stated\nin the notice.  (i) To implement a\nchange as provided by paragraph\n(i)(2)(ii) of this section, a covered\nentity must:\n(A) Ensure that the policy or\nprocedure, as revised to reflect a\nchange in the covered entity's privacy\npractice as stated in its notice,\ncomplies with the standards,\nrequirements, and implementation\nspecifications of this subpart;\n(B) Document the policy or\nprocedure, as revised, as required by\nparagraph (j) of this section; and\n(C) Revise the notice as required by"
-  },
-  {
-    "doc": "HIPAA",
-    "section": "§ 164.520(b)(3) to state the changed",
-    "chunk_id": "§-0",
-    "text": "practice and make the revised notice\navailable as required by"
   },
   {
     "doc": "HIPAA",

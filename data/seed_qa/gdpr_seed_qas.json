@@ -1,0 +1,307 @@
+[
+  {
+    "question": "What is personal data under the GDPR?",
+    "answer": "Personal data refers to any information relating to an identified or identifiable natural person, such as names, identification numbers, location data, or online identifiers.",
+    "ref": "GDPR Article 4(1)"
+  },
+  {
+    "question": "What constitutes processing of personal data?",
+    "answer": "Processing encompasses any operation performed on personal data, including collection, recording, organization, structuring, storage, adaptation, retrieval, consultation, use, disclosure, alignment, restriction, erasure, or destruction.",
+    "ref": "GDPR Article 4(2)"
+  },
+  {
+    "question": "Who is considered a data controller?",
+    "answer": "A data controller is the natural or legal person, public authority, agency, or other body that determines the purposes and means of processing personal data.",
+    "ref": "GDPR Article 4(7)"
+  },
+  {
+    "question": "What is the definition of a data processor?",
+    "answer": "A data processor is a natural or legal person, public authority, agency, or other body that processes personal data on behalf of the controller.",
+    "ref": "GDPR Article 4(8)"
+  },
+  {
+    "question": "When must a data breach be notified to the supervisory authority?",
+    "answer": "A personal data breach must be reported to the supervisory authority without undue delay and, where feasible, no later than 72 hours after becoming aware of it.",
+    "ref": "GDPR Article 33(1)"
+  },
+  {
+    "question": "What are the lawful bases for processing personal data?",
+    "answer": "Lawful bases include consent, performance of a contract, compliance with a legal obligation, protection of vital interests, performance of a task carried out in the public interest or exercise of official authority, and legitimate interests pursued by the controller or a third party.",
+    "ref": "GDPR Article 6(1)"
+  },
+  {
+    "question": "What rights do data subjects have under the GDPR?",
+    "answer": "Data subjects have rights to access, rectification, erasure, restriction of processing, data portability, and objection to processing.",
+    "ref": "GDPR Articles 15–21"
+  },
+  {
+    "question": "What is the right to data portability?",
+    "answer": "The right to data portability allows individuals to receive their personal data in a structured, commonly used, and machine-readable format and to transmit that data to another controller.",
+    "ref": "GDPR Article 20"
+  },
+  {
+    "question": "What does the right to erasure entail?",
+    "answer": "Also known as the 'right to be forgotten,' it allows individuals to have their personal data erased under certain conditions, such as when the data is no longer necessary for the purposes it was collected.",
+    "ref": "GDPR Article 17"
+  },
+  {
+    "question": "What is a Data Protection Impact Assessment (DPIA)?",
+    "answer": "A DPIA is a process to help identify and minimize the data protection risks of a project, especially when processing is likely to result in a high risk to individuals' rights and freedoms.",
+    "ref": "GDPR Article 35"
+  },
+  {
+    "question": "What is the right to rectification under the GDPR?",
+    "answer": "Individuals have the right to have inaccurate personal data corrected without undue delay.",
+    "ref": "GDPR Article 16"
+  },
+  {
+    "question": "What does the right to restriction of processing entail?",
+    "answer": "It allows individuals to limit the processing of their personal data under certain circumstances, such as contesting accuracy or objecting to processing.",
+    "ref": "GDPR Article 18"
+  },
+  {
+    "question": "When can a data subject object to processing?",
+    "answer": "Individuals can object to processing based on public interest or legitimate interests, and to processing for direct marketing purposes at any time.",
+    "ref": "GDPR Article 21"
+  },
+  {
+    "question": "What is the right to be informed under the GDPR?",
+    "answer": "Data subjects have the right to be informed about the collection and use of their personal data, including purposes, retention periods, and who it will be shared with.",
+    "ref": "GDPR Articles 13 and 14"
+  },
+  {
+    "question": "What is the right of access by the data subject?",
+    "answer": "Individuals have the right to obtain confirmation of whether their personal data is being processed and access to that data.",
+    "ref": "GDPR Article 15"
+  },
+  {
+    "question": "What is the right to erasure ('right to be forgotten')?",
+    "answer": "Individuals can request the deletion of their personal data when it's no longer necessary, consent is withdrawn, or processing is unlawful.",
+    "ref": "GDPR Article 17"
+  },
+  {
+    "question": "What obligations do controllers have regarding data protection by design and by default?",
+    "answer": "Controllers must implement appropriate technical and organizational measures to integrate data protection into processing activities.",
+    "ref": "GDPR Article 25"
+  },
+  {
+    "question": "What is the role of a Data Protection Officer (DPO)?",
+    "answer": "A DPO monitors compliance, advises on obligations, and acts as a contact point for data subjects and supervisory authorities.",
+    "ref": "GDPR Article 39"
+  },
+  {
+    "question": "When is appointing a Data Protection Officer mandatory?",
+    "answer": "When processing is carried out by a public authority, involves regular and systematic monitoring, or includes special categories of data on a large scale.",
+    "ref": "GDPR Article 37"
+  },
+  {
+    "question": "What are the requirements for consent under the GDPR?",
+    "answer": "Consent must be freely given, specific, informed, and unambiguous, indicated by a clear affirmative action.",
+    "ref": "GDPR Article 4(11)"
+  },
+  {
+    "question": "What is considered a personal data breach?",
+    "answer": "A breach of security leading to accidental or unlawful destruction, loss, alteration, unauthorized disclosure of, or access to personal data.",
+    "ref": "GDPR Article 4(12)"
+  },
+  {
+    "question": "What information must be provided when collecting personal data directly from individuals?",
+    "answer": "Details include the identity of the controller, purposes of processing, legal basis, recipients, and data subject rights.",
+    "ref": "GDPR Article 13"
+  },
+  {
+    "question": "What is the right to data portability?",
+    "answer": "It allows individuals to receive their personal data in a structured, commonly used, machine-readable format and transmit it to another controller.",
+    "ref": "GDPR Article 20"
+  },
+  {
+    "question": "What is the purpose of a Data Protection Impact Assessment (DPIA)?",
+    "answer": "To assess the impact of processing operations on the protection of personal data, especially when using new technologies.",
+    "ref": "GDPR Article 35"
+  },
+  {
+    "question": "What are the obligations of processors regarding data breaches?",
+    "answer": "Processors must notify the controller without undue delay after becoming aware of a personal data breach.",
+    "ref": "GDPR Article 33(2)"
+  },
+  {
+    "question": "What is the 'one-stop-shop' mechanism in the GDPR?",
+    "answer": "It allows organizations operating in multiple EU countries to deal with a single lead supervisory authority for cross-border processing.",
+    "ref": "GDPR Article 56"
+  },
+  {
+    "question": "What are the conditions for processing special categories of personal data?",
+    "answer": "Processing is prohibited unless specific conditions are met, such as explicit consent or necessity for employment, social security, or vital interests.",
+    "ref": "GDPR Article 9"
+  },
+  {
+    "question": "What is the role of the European Data Protection Board (EDPB)?",
+    "answer": "The EDPB ensures consistent application of the GDPR across the EU and advises the European Commission on data protection matters.",
+    "ref": "GDPR Article 68"
+  },
+  {
+    "question": "What are the penalties for non-compliance with the GDPR?",
+    "answer": "Organizations can face fines up to €20 million or 4% of annual global turnover, whichever is higher.",
+    "ref": "GDPR Article 83"
+  },
+  {
+    "question": "What is the right to lodge a complaint with a supervisory authority?",
+    "answer": "Individuals have the right to file a complaint with a supervisory authority if they believe their data protection rights have been violated.",
+    "ref": "GDPR Article 77"
+  },
+  {
+    "question": "What is the principle of data minimization under the GDPR?",
+    "answer": "Personal data must be adequate, relevant, and limited to what is necessary in relation to the purposes for which they are processed.",
+    "ref": "GDPR Article 5(1)(c)"
+  },
+  {
+    "question": "What does the principle of accuracy entail in the GDPR?",
+    "answer": "Personal data must be accurate and, where necessary, kept up to date; every reasonable step must be taken to ensure that inaccurate data are erased or rectified without delay.",
+    "ref": "GDPR Article 5(1)(d)"
+  },
+  {
+    "question": "What is the accountability principle under the GDPR?",
+    "answer": "The controller is responsible for, and must be able to demonstrate, compliance with the data protection principles.",
+    "ref": "GDPR Article 5(2)"
+  },
+  {
+    "question": "What constitutes special categories of personal data under the GDPR?",
+    "answer": "Data revealing racial or ethnic origin, political opinions, religious or philosophical beliefs, trade union membership, genetic data, biometric data for identification, health data, or data concerning a person's sex life or sexual orientation.",
+    "ref": "GDPR Article 9(1)"
+  },
+  {
+    "question": "Under what conditions can special categories of personal data be processed?",
+    "answer": "Processing is permitted under specific conditions, such as explicit consent, employment law obligations, vital interests, or substantial public interest.",
+    "ref": "GDPR Article 9(2)"
+  },
+  {
+    "question": "What are the transparency requirements for data controllers?",
+    "answer": "Controllers must provide clear and transparent information to data subjects about the processing of their personal data.",
+    "ref": "GDPR Articles 12–14"
+  },
+  {
+    "question": "What is the purpose limitation principle in the GDPR?",
+    "answer": "Personal data must be collected for specified, explicit, and legitimate purposes and not further processed in a manner incompatible with those purposes.",
+    "ref": "GDPR Article 5(1)(b)"
+  },
+  {
+    "question": "What is the storage limitation principle under the GDPR?",
+    "answer": "Personal data must be kept in a form that permits identification of data subjects for no longer than is necessary for the purposes for which the data are processed.",
+    "ref": "GDPR Article 5(1)(e)"
+  },
+  {
+    "question": "What is the integrity and confidentiality principle in the GDPR?",
+    "answer": "Personal data must be processed in a manner that ensures appropriate security, including protection against unauthorized or unlawful processing and against accidental loss, destruction, or damage.",
+    "ref": "GDPR Article 5(1)(f)"
+  },
+  {
+    "question": "What are the requirements for obtaining valid consent under the GDPR?",
+    "answer": "Consent must be freely given, specific, informed, and unambiguous, indicated by a clear affirmative action.",
+    "ref": "GDPR Article 4(11)"
+  },
+  {
+    "question": "Can a data subject withdraw consent, and what are the implications?",
+    "answer": "Yes, a data subject can withdraw consent at any time, and withdrawal must be as easy as giving consent.",
+    "ref": "GDPR Article 7(3)"
+  },
+  {
+    "question": "What information must be provided when personal data are not obtained directly from the data subject?",
+    "answer": "Controllers must provide information including the categories of data, the source, and the purposes of processing.",
+    "ref": "GDPR Article 14"
+  },
+  {
+    "question": "What is the obligation of confidentiality for persons processing personal data?",
+    "answer": "Persons authorized to process personal data must commit to confidentiality or be under an appropriate statutory obligation.",
+    "ref": "GDPR Article 28(3)(b)"
+  },
+  {
+    "question": "What are the requirements for processing personal data of children under the GDPR?",
+    "answer": "For children under 16, processing is lawful only if consent is given or authorized by the holder of parental responsibility.",
+    "ref": "GDPR Article 8(1)"
+  },
+  {
+    "question": "What is the role of codes of conduct under the GDPR?",
+    "answer": "Codes of conduct help demonstrate compliance with the GDPR and can be developed by associations or bodies representing categories of controllers or processors.",
+    "ref": "GDPR Article 40"
+  },
+  {
+    "question": "What is the purpose of certification mechanisms in the GDPR?",
+    "answer": "Certification mechanisms serve to demonstrate compliance with the GDPR's processing operations by controllers and processors.",
+    "ref": "GDPR Article 42"
+  },
+  {
+    "question": "What are the conditions for imposing administrative fines under the GDPR?",
+    "answer": "Fines are imposed based on factors like the nature, gravity, and duration of the infringement, and can reach up to €20 million or 4% of annual global turnover.",
+    "ref": "GDPR Article 83"
+  },
+  {
+    "question": "What is the right to lodge a complaint with a supervisory authority?",
+    "answer": "Data subjects have the right to lodge a complaint with a supervisory authority if they consider that the processing of their personal data infringes the GDPR.",
+    "ref": "GDPR Article 77"
+  },
+  {
+    "question": "What is the right to an effective judicial remedy against a controller or processor?",
+    "answer": "Data subjects have the right to an effective judicial remedy where they consider their rights under the GDPR have been infringed.",
+    "ref": "GDPR Article 79"
+  },
+  {
+    "question": "What is the right to compensation and liability under the GDPR?",
+    "answer": "Any person who has suffered material or non-material damage as a result of a GDPR infringement has the right to receive compensation from the controller or processor.",
+    "ref": "GDPR Article 82"
+  },
+  {
+    "question": "What is the obligation of joint controllers under the GDPR?",
+    "answer": "Joint controllers must determine their respective responsibilities for compliance with the GDPR, particularly regarding data subjects' rights.",
+    "ref": "GDPR Article 26"
+  },
+  {
+    "question": "What are the requirements for data processing agreements between controllers and processors?",
+    "answer": "Agreements must set out the subject matter, duration, nature, and purpose of processing, and include obligations regarding data security and confidentiality.",
+    "ref": "GDPR Article 28(3)"
+  },
+  {
+    "question": "What is the obligation to notify data subjects of a personal data breach?",
+    "answer": "When a breach is likely to result in a high risk to rights and freedoms, the controller must inform data subjects without undue delay.",
+    "ref": "GDPR Article 34"
+  },
+  {
+    "question": "What are the conditions for lawful processing of personal data under the GDPR?",
+    "answer": "Processing is lawful only if at least one legal basis applies, such as consent, contract performance, legal obligation, vital interests, public task, or legitimate interests.",
+    "ref": "GDPR Article 6(1)"
+  },
+  {
+    "question": "What is the obligation of data protection by design and by default?",
+    "answer": "Controllers must implement appropriate technical and organizational measures to ensure data protection principles are integrated into processing activities.",
+    "ref": "GDPR Article 25"
+  },
+  {
+    "question": "What is the role of the European Data Protection Board (EDPB)?",
+    "answer": "The EDPB ensures consistent application of the GDPR across the EU and advises the European Commission on data protection matters.",
+    "ref": "GDPR Article 68"
+  },
+  {
+    "question": "What is the obligation of processors regarding sub-processing?",
+    "answer": "Processors must not engage another processor without prior specific or general written authorization from the controller.",
+    "ref": "GDPR Article 28(2)"
+  },
+  {
+    "question": "What are the requirements for transferring personal data to third countries?",
+    "answer": "Transfers are permitted if the third country ensures an adequate level of data protection or appropriate safeguards are in place.",
+    "ref": "GDPR Articles 44–46"
+  },
+  {
+    "question": "What is the obligation to maintain records of processing activities?",
+    "answer": "Controllers and processors must maintain records of processing activities under their responsibility, detailing purposes, categories, recipients, and more.",
+    "ref": "GDPR Article 30"
+  },
+  {
+    "question": "What are the conditions for automated individual decision-making, including profiling?",
+    "answer": "Such processing is allowed only under specific conditions, like necessity for a contract, authorization by law, or explicit consent.",
+    "ref": "GDPR Article 22"
+  },
+  {
+    "question": "What is the obligation to conduct a Data Protection Impact Assessment (DPIA)?",
+    "answer": "Controllers must carry out a DPIA when processing is likely to result in a high risk to the rights and freedoms of individuals.",
+    "ref": "GDPR Article 35"
+  }
+]

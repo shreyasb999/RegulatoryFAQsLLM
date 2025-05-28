@@ -73,20 +73,43 @@ def _download(url: str, dest: Path, binary: bool = False) -> None:
         with open(dest, mode, encoding='utf-8') as f:
             f.write(resp.text)
 
-def _chunk_text(text: str, max_words: int = 350) -> List[str]:
-    """Split text into chunks (~200-500 words) at paragraph boundaries."""
+def _chunk_text(text: str, min_words: int = 100, max_words: int = 350) -> List[str]:
+    """
+    Split text into chunks between min_words and max_words at paragraph boundaries.
+    Merges any under-length chunk forward, and ensures the last chunk meets min_words
+    by merging it backward if necessary.
+    """
     paras = [p.strip() for p in text.split('\n') if p.strip()]
-    chunks, curr = [], []
-    word_count = lambda s: len(s.split())
+    raw_chunks, curr = [], []
+    wc = lambda s: len(s.split())
+
+    # 1) Build up to max_words
     for p in paras:
-        if curr and word_count(' '.join(curr + [p])) > max_words:
-            chunks.append('\n'.join(curr))
+        if curr and wc(' '.join(curr + [p])) > max_words:
+            raw_chunks.append('\n'.join(curr))
             curr = [p]
         else:
             curr.append(p)
     if curr:
-        chunks.append('\n'.join(curr))
-    return chunks
+        raw_chunks.append('\n'.join(curr))
+
+    # 2) Merge under-length chunks forward
+    merged = []
+    i = 0
+    while i < len(raw_chunks):
+        chunk = raw_chunks[i]
+        if wc(chunk) < min_words and i + 1 < len(raw_chunks):
+            raw_chunks[i+1] = chunk + '\n' + raw_chunks[i+1]
+        else:
+            merged.append(chunk)
+        i += 1
+
+    # 3) If the very last chunk is still too short, merge it backward
+    if len(merged) > 1 and wc(merged[-1]) < min_words:
+        merged[-2] = merged[-2] + '\n' + merged[-1]
+        merged.pop(-1)
+
+    return merged
 
 # ───────────────────────────── GDPR Parsing (HTML) ─────────────────────────────
 
@@ -160,14 +183,21 @@ def _parse_hipaa() -> None:
     for hdr, body in zip(headers, parts[1:]):
         hdr_clean = ' '.join(hdr.split())
         for ci, chunk in enumerate(_chunk_text(body)):
+            word_count = len(chunk.split())
+            if word_count < 20:
+                continue  # Skip tiny chunks
             output.append({
                 'doc': 'HIPAA',
                 'section': hdr_clean,
                 'chunk_id': f"{hdr_clean.split()[0]}-{ci}",
                 'text': chunk,
             })
-    (PARSED_DIR / 'hipaa.json').write_text(json.dumps(output, indent=2, ensure_ascii=False), encoding='utf-8')
+
+    (PARSED_DIR / 'hipaa.json').write_text(
+        json.dumps(output, indent=2, ensure_ascii=False), encoding='utf-8'
+    )
     print(f"[OK] HIPAA parsed: {len(output)} chunks.")
+
 
 # ───────────────────────────── Registry & Main ────────────────────────────────
 

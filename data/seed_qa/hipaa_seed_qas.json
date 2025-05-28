@@ -1,0 +1,202 @@
+[
+  {
+    "question": "What is the primary purpose of the HIPAA Privacy Rule?",
+    "answer": "The HIPAA Privacy Rule establishes national standards to protect individuals' medical records and other personal health information, setting limits on the use and disclosure of such information without patient authorization.",
+    "ref": "45 CFR § 164.500 et seq."
+  },
+  {
+    "question": "Who are considered 'covered entities' under HIPAA?",
+    "answer": "Covered entities include health plans, health care clearinghouses, and health care providers who transmit health information electronically in connection with certain transactions.",
+    "ref": "45 CFR § 160.103"
+  },
+  {
+    "question": "What constitutes 'protected health information' (PHI) under HIPAA?",
+    "answer": "PHI refers to individually identifiable health information held or transmitted by a covered entity or its business associate, in any form or medium, whether electronic, paper, or oral.",
+    "ref": "45 CFR § 160.103"
+  },
+  {
+    "question": "What is the 'minimum necessary' standard in HIPAA?",
+    "answer": "The 'minimum necessary' standard requires covered entities to make reasonable efforts to use, disclose, and request only the minimum amount of PHI needed to accomplish the intended purpose.",
+    "ref": "45 CFR § 164.502(b)"
+  },
+  {
+    "question": "What rights do individuals have under the HIPAA Privacy Rule?",
+    "answer": "Individuals have rights to access and obtain copies of their PHI, request corrections, receive an accounting of disclosures, and request restrictions on certain uses and disclosures.",
+    "ref": "45 CFR §§ 164.524–164.528"
+  },
+  {
+    "question": "What is the HIPAA Security Rule?",
+    "answer": "The HIPAA Security Rule establishes national standards to protect electronic protected health information (ePHI) through administrative, physical, and technical safeguards.",
+    "ref": "45 CFR §§ 164.302–164.318"
+  },
+  {
+    "question": "What are administrative safeguards under the HIPAA Security Rule?",
+    "answer": "Administrative safeguards are policies and procedures designed to manage the selection, development, implementation, and maintenance of security measures to protect ePHI.",
+    "ref": "45 CFR § 164.308"
+  },
+  {
+    "question": "What are physical safeguards under the HIPAA Security Rule?",
+    "answer": "Physical safeguards involve physical measures, policies, and procedures to protect electronic information systems and related buildings and equipment from natural and environmental hazards and unauthorized intrusion.",
+    "ref": "45 CFR § 164.310"
+  },
+  {
+    "question": "What are technical safeguards under the HIPAA Security Rule?",
+    "answer": "Technical safeguards are the technology and related policies and procedures that protect ePHI and control access to it, including access controls, audit controls, integrity controls, and transmission security.",
+    "ref": "45 CFR § 164.312"
+  },
+  {
+    "question": "What is the HIPAA Breach Notification Rule?",
+    "answer": "The HIPAA Breach Notification Rule requires covered entities and business associates to provide notification following a breach of unsecured PHI, including notifying affected individuals, the Secretary of HHS, and, in some cases, the media.",
+    "ref": "45 CFR §§ 164.400–164.414"
+  },
+  {
+    "question": "What constitutes a breach under HIPAA?",
+    "answer": "A breach is an impermissible use or disclosure under the Privacy Rule that compromises the security or privacy of the PHI, unless an exception applies or a risk assessment determines a low probability of compromise.",
+    "ref": "45 CFR § 164.402"
+  },
+  {
+    "question": "What is the timeframe for notifying individuals of a breach?",
+    "answer": "Covered entities must notify affected individuals without unreasonable delay and no later than 60 calendar days after discovering a breach.",
+    "ref": "45 CFR § 164.404(b)"
+  },
+  {
+    "question": "What is a business associate under HIPAA?",
+    "answer": "A business associate is a person or entity that performs functions or activities on behalf of, or provides services to, a covered entity that involve access to PHI.",
+    "ref": "45 CFR § 160.103"
+  },
+  {
+    "question": "Are business associates directly liable for HIPAA compliance?",
+    "answer": "Yes, business associates are directly liable for compliance with certain provisions of the HIPAA Rules, including the Security Rule and certain provisions of the Privacy Rule.",
+    "ref": "45 CFR §§ 164.502(e), 164.308(b)"
+  },
+  {
+    "question": "What is required in a business associate agreement (BAA)?",
+    "answer": "A BAA must establish the permitted and required uses and disclosures of PHI by the business associate, require safeguarding of the information, and mandate reporting of breaches and compliance with applicable HIPAA provisions.",
+    "ref": "45 CFR § 164.504(e)"
+  },
+  {
+    "question": "Can individuals request restrictions on the use or disclosure of their PHI?",
+    "answer": "Yes, individuals can request restrictions, and covered entities must comply with certain restrictions, such as when the individual pays out-of-pocket in full and requests that the information not be disclosed to a health plan.",
+    "ref": "45 CFR § 164.522(a)"
+  },
+  {
+    "question": "What is the right to access PHI under HIPAA?",
+    "answer": "Individuals have the right to inspect and obtain a copy of their PHI maintained by a covered entity, with certain exceptions, and covered entities must respond within 30 days of the request.",
+    "ref": "45 CFR § 164.524"
+  },
+  {
+    "question": "What is the right to amend PHI under HIPAA?",
+    "answer": "Individuals have the right to request an amendment to their PHI, and covered entities must respond to such requests, allowing or denying them based on specific criteria.",
+    "ref": "45 CFR § 164.526"
+  },
+  {
+    "question": "What is the right to an accounting of disclosures under HIPAA?",
+    "answer": "Individuals have the right to receive an accounting of certain disclosures of their PHI made by a covered entity in the six years prior to the request, excluding disclosures for treatment, payment, and healthcare operations.",
+    "ref": "45 CFR § 164.528"
+  },
+  {
+    "question": "What are the penalties for HIPAA violations?",
+    "answer": "HIPAA violations can result in civil monetary penalties ranging from $100 to $50,000 per violation, with an annual maximum of $1.5 million, and criminal penalties including fines and imprisonment for willful neglect or malicious intent.",
+    "ref": "45 CFR § 160.404; 42 USC § 1320d-6"
+  },
+  {
+    "question": "What is the HIPAA Enforcement Rule?",
+    "answer": "The HIPAA Enforcement Rule outlines the procedures for investigations, penalties, and hearings related to HIPAA violations.",
+    "ref": "45 CFR Part 160 Subparts C–E"
+  },
+  {
+    "question": "What is the purpose of the HIPAA Omnibus Rule?",
+    "answer": "The HIPAA Omnibus Rule enhances privacy protections, strengthens patient rights, and expands the responsibilities of business associates.",
+    "ref": "78 FR 5566 (Jan. 25, 2013)"
+  },
+  {
+    "question": "What is a Notice of Privacy Practices (NPP)?",
+    "answer": "An NPP is a document that informs patients about their privacy rights and how their PHI is used and disclosed.",
+    "ref": "45 CFR § 164.520"
+  },
+  {
+    "question": "What are the requirements for de-identifying PHI under HIPAA?",
+    "answer": "PHI can be de-identified by removing specific identifiers or through expert determination that the risk of re-identification is very small.",
+    "ref": "45 CFR § 164.514(a)-(b)"
+  },
+  {
+    "question": "What is the 'limited data set' under HIPAA?",
+    "answer": "A limited data set excludes certain direct identifiers and can be used for research, public health, or healthcare operations with a data use agreement.",
+    "ref": "45 CFR § 164.514(e)"
+  },
+  {
+    "question": "What is the requirement for risk analysis under the HIPAA Security Rule?",
+    "answer": "Covered entities must conduct an accurate and thorough assessment of potential risks and vulnerabilities to ePHI.",
+    "ref": "45 CFR § 164.308(a)(1)(ii)(A)"
+  },
+  {
+    "question": "What is the requirement for risk management under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement security measures sufficient to reduce risks and vulnerabilities to a reasonable and appropriate level.",
+    "ref": "45 CFR § 164.308(a)(1)(ii)(B)"
+  },
+  {
+    "question": "What is the requirement for workforce security under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies to ensure that all workforce members have appropriate access to ePHI and prevent unauthorized access.",
+    "ref": "45 CFR § 164.308(a)(3)"
+  },
+  {
+    "question": "What is the requirement for information access management under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies for authorizing access to ePHI only when such access is appropriate based on the user's role.",
+    "ref": "45 CFR § 164.308(a)(4)"
+  },
+  {
+    "question": "What is the requirement for security awareness and training under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement a security awareness and training program for all workforce members.",
+    "ref": "45 CFR § 164.308(a)(5)"
+  },
+  {
+    "question": "What is the requirement for security incident procedures under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies to address security incidents, including response and reporting.",
+    "ref": "45 CFR § 164.308(a)(6)"
+  },
+  {
+    "question": "What is the requirement for contingency planning under the HIPAA Security Rule?",
+    "answer": "Covered entities must establish policies for responding to emergencies or other occurrences that damage systems containing ePHI.",
+    "ref": "45 CFR § 164.308(a)(7)"
+  },
+  {
+    "question": "What is the requirement for evaluation under the HIPAA Security Rule?",
+    "answer": "Covered entities must perform periodic technical and non-technical evaluations to ensure compliance with the Security Rule.",
+    "ref": "45 CFR § 164.308(a)(8)"
+  },
+  {
+    "question": "What is the requirement for business associate contracts under the HIPAA Security Rule?",
+    "answer": "Covered entities must obtain satisfactory assurances that business associates will appropriately safeguard ePHI.",
+    "ref": "45 CFR § 164.308(b)"
+  },
+  {
+    "question": "What is the requirement for facility access controls under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies to limit physical access to electronic information systems and the facilities in which they are housed.",
+    "ref": "45 CFR § 164.310(a)"
+  },
+  {
+    "question": "What is the requirement for workstation use under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies specifying the proper functions to be performed and the manner of performance on workstations.",
+    "ref": "45 CFR § 164.310(b)"
+  },
+  {
+    "question": "What is the requirement for device and media controls under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies for the receipt and removal of hardware and electronic media containing ePHI.",
+    "ref": "45 CFR § 164.310(d)"
+  },
+  {
+    "question": "What is the requirement for access control under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement technical policies to allow access only to those persons or software programs that have been granted access rights.",
+    "ref": "45 CFR § 164.312(a)"
+  },
+  {
+    "question": "What is the requirement for audit controls under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement hardware, software, and procedural mechanisms to record and examine activity in systems containing ePHI.",
+    "ref": "45 CFR § 164.312(b)"
+  },
+  {
+    "question": "What is the requirement for integrity controls under the HIPAA Security Rule?",
+    "answer": "Covered entities must implement policies to protect ePHI from improper alteration or destruction.",
+    "ref": "45 CFR § 164.312(c)"
+  }
+]
